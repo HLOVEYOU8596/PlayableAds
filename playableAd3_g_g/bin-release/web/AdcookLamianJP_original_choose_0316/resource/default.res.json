@@ -1,0 +1,197 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,main_guide_arrow_png,loading_bg_png,loading_c_png",
+			"name": "preload"
+		},
+		{
+			"keys": "coin_json,coin_png,snow_json,snow_png",
+			"name": "mc"
+		},
+		{
+			"keys": "main_bg1_png,main_bg2_png,main_guide_arrow_png,main_menu_png,main_x3_png,main_x6_png,main_people1_png,main_arrow_png,main_people2_png,main_swipe_png,main_drumstick1_png,main_drumstick3_png,main_drumstick4_png,main_drumstick5_png,main_cake1_png,main_cake2_png,main_cake3_png,main_Cake4_png,main_cake5_png",
+			"name": "main"
+		},
+		{
+			"keys": "start_bg_png,start_choose_png,start_girl_png,start_house1_png,start_house2_png,start_house3_png,start_resturent_png,start_tips_bg1_png,start_tips_bg2_png",
+			"name": "start"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/main/main_guide_arrow.png",
+			"type": "image",
+			"name": "main_guide_arrow_png"
+		},
+		{
+			"url": "assets/load/loading_bg.png",
+			"type": "image",
+			"name": "loading_bg_png"
+		},
+		{
+			"url": "assets/load/loading_c.png",
+			"type": "image",
+			"name": "loading_c_png"
+		},
+		{
+			"url": "assets/mc/coin.json",
+			"type": "json",
+			"name": "coin_json"
+		},
+		{
+			"url": "assets/mc/coin.png",
+			"type": "image",
+			"name": "coin_png"
+		},
+		{
+			"url": "assets/start/start_bg.png",
+			"type": "image",
+			"name": "start_bg_png"
+		},
+		{
+			"url": "assets/start/start_choose.png",
+			"type": "image",
+			"name": "start_choose_png"
+		},
+		{
+			"url": "assets/start/start_girl.png",
+			"type": "image",
+			"name": "start_girl_png"
+		},
+		{
+			"url": "assets/start/start_house1.png",
+			"type": "image",
+			"name": "start_house1_png"
+		},
+		{
+			"url": "assets/start/start_house2.png",
+			"type": "image",
+			"name": "start_house2_png"
+		},
+		{
+			"url": "assets/start/start_house3.png",
+			"type": "image",
+			"name": "start_house3_png"
+		},
+		{
+			"url": "assets/start/start_resturent.png",
+			"type": "image",
+			"name": "start_resturent_png"
+		},
+		{
+			"url": "assets/start/start_tips_bg1.png",
+			"type": "image",
+			"name": "start_tips_bg1_png"
+		},
+		{
+			"url": "assets/start/start_tips_bg2.png",
+			"type": "image",
+			"name": "start_tips_bg2_png"
+		},
+		{
+			"url": "assets/main/main_bg1.png",
+			"type": "image",
+			"name": "main_bg1_png"
+		},
+		{
+			"url": "assets/main/main_bg2.png",
+			"type": "image",
+			"name": "main_bg2_png"
+		},
+		{
+			"url": "assets/main/main_menu.png",
+			"type": "image",
+			"name": "main_menu_png"
+		},
+		{
+			"url": "assets/main/main_x3.png",
+			"type": "image",
+			"name": "main_x3_png"
+		},
+		{
+			"url": "assets/main/main_x6.png",
+			"type": "image",
+			"name": "main_x6_png"
+		},
+		{
+			"url": "assets/main/main_people1.png",
+			"type": "image",
+			"name": "main_people1_png"
+		},
+		{
+			"url": "assets/mc/snow.json",
+			"type": "json",
+			"name": "snow_json"
+		},
+		{
+			"url": "assets/mc/snow.png",
+			"type": "image",
+			"name": "snow_png"
+		},
+		{
+			"url": "assets/main/main_arrow.png",
+			"type": "image",
+			"name": "main_arrow_png"
+		},
+		{
+			"url": "assets/main/main_people2.png",
+			"type": "image",
+			"name": "main_people2_png"
+		},
+		{
+			"url": "assets/main/main_swipe.png",
+			"type": "image",
+			"name": "main_swipe_png"
+		},
+		{
+			"url": "assets/main/main_drumstick1.png",
+			"type": "image",
+			"name": "main_drumstick1_png"
+		},
+		{
+			"url": "assets/main/main_drumstick3.png",
+			"type": "image",
+			"name": "main_drumstick3_png"
+		},
+		{
+			"url": "assets/main/main_drumstick4.png",
+			"type": "image",
+			"name": "main_drumstick4_png"
+		},
+		{
+			"url": "assets/main/main_drumstick5.png",
+			"type": "image",
+			"name": "main_drumstick5_png"
+		},
+		{
+			"url": "assets/main/main_cake1.png",
+			"type": "image",
+			"name": "main_cake1_png"
+		},
+		{
+			"url": "assets/main/main_cake2.png",
+			"type": "image",
+			"name": "main_cake2_png"
+		},
+		{
+			"url": "assets/main/main_cake3.png",
+			"type": "image",
+			"name": "main_cake3_png"
+		},
+		{
+			"url": "assets/main/main_Cake4.png",
+			"type": "image",
+			"name": "main_Cake4_png"
+		},
+		{
+			"url": "assets/main/main_cake5.png",
+			"type": "image",
+			"name": "main_cake5_png"
+		}
+	]
+}

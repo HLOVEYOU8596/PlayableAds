@@ -1,0 +1,112 @@
+{"mc":{
+	"action1":{
+		"frameRate":24,
+		"labels":[
+			{"name":"action1","frame":1,"end":16}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_000_png",
+			"x":-41,
+			"y":-177
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_002_png",
+			"x":-42,
+			"y":-179
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_004_png",
+			"x":-41,
+			"y":-181
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_006_png",
+			"x":-41,
+			"y":-186
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_008_png",
+			"x":-45,
+			"y":-193
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_010_png",
+			"x":-46,
+			"y":-200
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_012_png",
+			"x":-45,
+			"y":-201
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_014_png",
+			"x":-46,
+			"y":-198
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_016_png",
+			"x":-50,
+			"y":-190
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_018_png",
+			"x":-52,
+			"y":-186
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_020_png",
+			"x":-46,
+			"y":-190
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_022_png",
+			"x":-44,
+			"y":-192
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_024_png",
+			"x":-47,
+			"y":-193
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_026_png",
+			"x":-44,
+			"y":-185
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_028_png",
+			"x":-40,
+			"y":-181
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_030_png",
+			"x":-42,
+			"y":-179
+			}
+			]
+}},
+	"res":{
+		"Fire 018 Torch Fireball Up Loop_006_png":{"x":189,"y":427,"w":88,"h":206},
+		"Fire 018 Torch Fireball Up Loop_014_png":{"x":187,"y":645,"w":86,"h":218},
+		"Fire 018 Torch Fireball Up Loop_030_png":{"x":273,"y":634,"w":91,"h":198},
+		"Fire 018 Torch Fireball Up Loop_010_png":{"x":0,"y":214,"w":95,"h":220},
+		"Fire 018 Torch Fireball Up Loop_000_png":{"x":284,"y":201,"w":88,"h":196},
+		"Fire 018 Torch Fireball Up Loop_024_png":{"x":0,"y":0,"w":99,"h":213},
+		"Fire 018 Torch Fireball Up Loop_008_png":{"x":95,"y":214,"w":94,"h":213},
+		"Fire 018 Torch Fireball Up Loop_020_png":{"x":93,"y":434,"w":96,"h":210},
+		"Fire 018 Torch Fireball Up Loop_022_png":{"x":0,"y":655,"w":95,"h":212},
+		"Fire 018 Torch Fireball Up Loop_004_png":{"x":277,"y":412,"w":87,"h":201},
+		"Fire 018 Torch Fireball Up Loop_002_png":{"x":365,"y":0,"w":86,"h":199},
+		"Fire 018 Torch Fireball Up Loop_012_png":{"x":0,"y":434,"w":92,"h":221},
+		"Fire 018 Torch Fireball Up Loop_016_png":{"x":95,"y":645,"w":91,"h":210},
+		"Fire 018 Torch Fireball Up Loop_028_png":{"x":196,"y":0,"w":91,"h":201},
+		"Fire 018 Torch Fireball Up Loop_026_png":{"x":189,"y":207,"w":94,"h":205},
+		"Fire 018 Torch Fireball Up Loop_018_png":{"x":100,"y":0,"w":96,"h":206}
+	}}

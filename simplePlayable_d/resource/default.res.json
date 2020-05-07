@@ -1,0 +1,285 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,aunt_tex_png,end_bg_png,end_fodo1_png,end_food2_png,end_food3_png,end_food4_png,end_tips_png,end_topic_png,grampa_tex_png,load_tex_png,main_alert_bg_png,main_arrow_png,main_bg_png,main_circle_png,main_coke_png,main_coke0_png,main_coke1_png,main_dai1_png,main_dai2_png,main_dai3_png,main_dai4_png,main_dai5_png,main_dai6_png,main_dai7_png,main_dai8_png,main_dai9_png,main_dai10_png,main_drumstick_1_png,main_drumstick_2_png,main_drumstick0_png,main_food_fu_png,main_guide_arrow_png,main_icon_coin_png,main_order_png,main_progress_bg_png,main_progress_png,main_reward_bg_png,main_right_png,main_xuxian_png,main_yanhua_1_png,main_yanhua_2_png,main_yanhua_3_png,mc_png,smoke_png,aunt_ske_json,aunt_tex_json,mc_json,smoke_json,lux_png,star_png,main_bg2_png,main_big_png,main_bg1_png,main_coke2_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/aunt_tex.png",
+			"type": "image",
+			"name": "aunt_tex_png"
+		},
+		{
+			"url": "assets/end_bg.png",
+			"type": "image",
+			"name": "end_bg_png"
+		},
+		{
+			"url": "assets/end_fodo1.png",
+			"type": "image",
+			"name": "end_fodo1_png"
+		},
+		{
+			"url": "assets/end_food2.png",
+			"type": "image",
+			"name": "end_food2_png"
+		},
+		{
+			"url": "assets/end_food3.png",
+			"type": "image",
+			"name": "end_food3_png"
+		},
+		{
+			"url": "assets/end_food4.png",
+			"type": "image",
+			"name": "end_food4_png"
+		},
+		{
+			"url": "assets/end_tips.png",
+			"type": "image",
+			"name": "end_tips_png"
+		},
+		{
+			"url": "assets/end_topic.png",
+			"type": "image",
+			"name": "end_topic_png"
+		},
+		{
+			"url": "assets/grampa_tex.png",
+			"type": "image",
+			"name": "grampa_tex_png"
+		},
+		{
+			"url": "assets/json/aunt_tex.json",
+			"type": "json",
+			"name": "aunt_tex_json"
+		},
+		{
+			"url": "assets/json/mc.json",
+			"type": "json",
+			"name": "mc_json"
+		},
+		{
+			"url": "assets/json/aunt_ske.json",
+			"type": "json",
+			"name": "aunt_ske_json"
+		},
+		{
+			"url": "assets/json/smoke.json",
+			"type": "json",
+			"name": "smoke_json"
+		},
+		{
+			"url": "assets/load_tex.png",
+			"type": "image",
+			"name": "load_tex_png"
+		},
+		{
+			"url": "assets/main_alert_bg.png",
+			"type": "image",
+			"name": "main_alert_bg_png"
+		},
+		{
+			"url": "assets/main_arrow.png",
+			"type": "image",
+			"name": "main_arrow_png"
+		},
+		{
+			"url": "assets/main_bg.png",
+			"type": "image",
+			"name": "main_bg_png"
+		},
+		{
+			"url": "assets/main_circle.png",
+			"type": "image",
+			"name": "main_circle_png"
+		},
+		{
+			"url": "assets/main_coke.png",
+			"type": "image",
+			"name": "main_coke_png"
+		},
+		{
+			"url": "assets/main_coke0.png",
+			"type": "image",
+			"name": "main_coke0_png"
+		},
+		{
+			"url": "assets/main_coke1.png",
+			"type": "image",
+			"name": "main_coke1_png"
+		},
+		{
+			"url": "assets/main_dai1.png",
+			"type": "image",
+			"name": "main_dai1_png"
+		},
+		{
+			"url": "assets/main_dai2.png",
+			"type": "image",
+			"name": "main_dai2_png"
+		},
+		{
+			"url": "assets/main_dai3.png",
+			"type": "image",
+			"name": "main_dai3_png"
+		},
+		{
+			"url": "assets/main_dai4.png",
+			"type": "image",
+			"name": "main_dai4_png"
+		},
+		{
+			"url": "assets/main_dai5.png",
+			"type": "image",
+			"name": "main_dai5_png"
+		},
+		{
+			"url": "assets/main_dai6.png",
+			"type": "image",
+			"name": "main_dai6_png"
+		},
+		{
+			"url": "assets/main_dai7.png",
+			"type": "image",
+			"name": "main_dai7_png"
+		},
+		{
+			"url": "assets/main_dai8.png",
+			"type": "image",
+			"name": "main_dai8_png"
+		},
+		{
+			"url": "assets/main_dai9.png",
+			"type": "image",
+			"name": "main_dai9_png"
+		},
+		{
+			"url": "assets/main_dai10.png",
+			"type": "image",
+			"name": "main_dai10_png"
+		},
+		{
+			"url": "assets/main_drumstick_1.png",
+			"type": "image",
+			"name": "main_drumstick_1_png"
+		},
+		{
+			"url": "assets/main_drumstick_2.png",
+			"type": "image",
+			"name": "main_drumstick_2_png"
+		},
+		{
+			"url": "assets/main_drumstick0.png",
+			"type": "image",
+			"name": "main_drumstick0_png"
+		},
+		{
+			"url": "assets/main_food_fu.png",
+			"type": "image",
+			"name": "main_food_fu_png"
+		},
+		{
+			"url": "assets/main_guide_arrow.png",
+			"type": "image",
+			"name": "main_guide_arrow_png"
+		},
+		{
+			"url": "assets/main_icon_coin.png",
+			"type": "image",
+			"name": "main_icon_coin_png"
+		},
+		{
+			"url": "assets/main_order.png",
+			"type": "image",
+			"name": "main_order_png"
+		},
+		{
+			"url": "assets/main_progress_bg.png",
+			"type": "image",
+			"name": "main_progress_bg_png"
+		},
+		{
+			"url": "assets/main_progress.png",
+			"type": "image",
+			"name": "main_progress_png"
+		},
+		{
+			"url": "assets/main_reward_bg.png",
+			"type": "image",
+			"name": "main_reward_bg_png"
+		},
+		{
+			"url": "assets/main_right.png",
+			"type": "image",
+			"name": "main_right_png"
+		},
+		{
+			"url": "assets/main_xuxian.png",
+			"type": "image",
+			"name": "main_xuxian_png"
+		},
+		{
+			"url": "assets/main_yanhua_1.png",
+			"type": "image",
+			"name": "main_yanhua_1_png"
+		},
+		{
+			"url": "assets/main_yanhua_2.png",
+			"type": "image",
+			"name": "main_yanhua_2_png"
+		},
+		{
+			"url": "assets/main_yanhua_3.png",
+			"type": "image",
+			"name": "main_yanhua_3_png"
+		},
+		{
+			"url": "assets/mc.png",
+			"type": "image",
+			"name": "mc_png"
+		},
+		{
+			"url": "assets/smoke.png",
+			"type": "image",
+			"name": "smoke_png"
+		},
+		{
+			"url": "assets/lux.png",
+			"type": "image",
+			"name": "lux_png"
+		},
+		{
+			"url": "assets/star.png",
+			"type": "image",
+			"name": "star_png"
+		},
+		{
+			"url": "assets/main_bg2.png",
+			"type": "image",
+			"name": "main_bg2_png"
+		},
+		{
+			"url": "assets/main_big.png",
+			"type": "image",
+			"name": "main_big_png"
+		},
+		{
+			"url": "assets/main_bg1.png",
+			"type": "image",
+			"name": "main_bg1_png"
+		},
+		{
+			"url": "assets/main_coke2.png",
+			"type": "image",
+			"name": "main_coke2_png"
+		}
+	]
+}

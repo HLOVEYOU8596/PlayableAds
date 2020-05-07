@@ -1,0 +1,292 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,main_guide_arrow_png,loading_bg_png,loading_c_png,end_alert2_png,end_bg2_png,end_retry2_png,end_star2_png,end_starw2_png,loading_bg2_png,loading_c2_png,main_arrow2_png,main_bg12_png,main_bg22_png,main_circle2_png,main_disk2_png,main_drumstick12_png,main_drumstick22_png,main_drumstick32_png,main_guide_arrow2_png,main_menu2_png,main_people12_png,main_people22_png,main_x32_png,main_x62_png,snow2_png,coin2_json,coin2_png,mc2_json,mc2_png,description2_json",
+			"name": "preload"
+		},
+		{
+			"keys": "coin_json,coin_png,mc_json,mc_png",
+			"name": "mc"
+		},
+		{
+			"keys": "main_bg1_png,main_bg2_png,main_guide_arrow_png,main_menu_png,main_x3_png,main_x6_png,main_people1_png,main_arrow_png,main_people2_png,main_drumstick1_png,main_drumstick3_png,main_circle_png,main_disk_png,main_drumstick2_png",
+			"name": "main"
+		},
+		{
+			"keys": "end_alert_png,end_bg_png,end_retry_png,end_star_png,end_starw_png",
+			"name": "end"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "main_guide_arrow_png",
+			"type": "image",
+			"url": "assets/main/main_guide_arrow.png"
+		},
+		{
+			"name": "loading_bg_png",
+			"type": "image",
+			"url": "assets/load/loading_bg.png"
+		},
+		{
+			"name": "loading_c_png",
+			"type": "image",
+			"url": "assets/load/loading_c.png"
+		},
+		{
+			"name": "coin_json",
+			"type": "json",
+			"url": "assets/mc/coin.json"
+		},
+		{
+			"name": "coin_png",
+			"type": "image",
+			"url": "assets/mc/coin.png"
+		},
+		{
+			"name": "main_bg1_png",
+			"type": "image",
+			"url": "assets/main/main_bg1.png"
+		},
+		{
+			"name": "main_bg2_png",
+			"type": "image",
+			"url": "assets/main/main_bg2.png"
+		},
+		{
+			"name": "main_menu_png",
+			"type": "image",
+			"url": "assets/main/main_menu.png"
+		},
+		{
+			"name": "main_x3_png",
+			"type": "image",
+			"url": "assets/main/main_x3.png"
+		},
+		{
+			"name": "main_x6_png",
+			"type": "image",
+			"url": "assets/main/main_x6.png"
+		},
+		{
+			"name": "main_people1_png",
+			"type": "image",
+			"url": "assets/main/main_people1.png"
+		},
+		{
+			"name": "main_arrow_png",
+			"type": "image",
+			"url": "assets/main/main_arrow.png"
+		},
+		{
+			"name": "main_people2_png",
+			"type": "image",
+			"url": "assets/main/main_people2.png"
+		},
+		{
+			"name": "main_drumstick1_png",
+			"type": "image",
+			"url": "assets/main/main_drumstick1.png"
+		},
+		{
+			"name": "main_drumstick3_png",
+			"type": "image",
+			"url": "assets/main/main_drumstick3.png"
+		},
+		{
+			"name": "mc_json",
+			"type": "json",
+			"url": "assets/mc/mc.json"
+		},
+		{
+			"name": "mc_png",
+			"type": "image",
+			"url": "assets/mc/mc.png"
+		},
+		{
+			"name": "end_alert_png",
+			"type": "image",
+			"url": "assets/end/end_alert.png"
+		},
+		{
+			"name": "end_bg_png",
+			"type": "image",
+			"url": "assets/end/end_bg.png"
+		},
+		{
+			"name": "end_retry_png",
+			"type": "image",
+			"url": "assets/end/end_retry.png"
+		},
+		{
+			"name": "end_star_png",
+			"type": "image",
+			"url": "assets/end/end_star.png"
+		},
+		{
+			"name": "end_starw_png",
+			"type": "image",
+			"url": "assets/end/end_starw.png"
+		},
+		{
+			"name": "main_circle_png",
+			"type": "image",
+			"url": "assets/main/main_circle.png"
+		},
+		{
+			"name": "main_disk_png",
+			"type": "image",
+			"url": "assets/main/main_disk.png"
+		},
+		{
+			"name": "main_drumstick2_png",
+			"type": "image",
+			"url": "assets/main/main_drumstick2.png"
+		},
+		{
+			"name": "snow_png",
+			"type": "image",
+			"url": "assets/main/snow.png"
+		},
+		{
+			"name": "end_alert2_png",
+			"type": "image",
+			"url": "assets/end/end_alert.png"
+		},
+		{
+			"name": "end_bg2_png",
+			"type": "image",
+			"url": "assets/end/end_bg.png"
+		},
+		{
+			"name": "end_retry2_png",
+			"type": "image",
+			"url": "assets/end/end_retry.png"
+		},
+		{
+			"name": "end_star2_png",
+			"type": "image",
+			"url": "assets/end/end_star.png"
+		},
+		{
+			"name": "end_starw2_png",
+			"type": "image",
+			"url": "assets/end/end_starw.png"
+		},
+		{
+			"name": "loading_bg2_png",
+			"type": "image",
+			"url": "assets/load/loading_bg.png"
+		},
+		{
+			"name": "loading_c2_png",
+			"type": "image",
+			"url": "assets/load/loading_c.png"
+		},
+		{
+			"name": "main_arrow2_png",
+			"type": "image",
+			"url": "assets/main/main_arrow.png"
+		},
+		{
+			"name": "main_bg12_png",
+			"type": "image",
+			"url": "assets/main/main_bg1.png"
+		},
+		{
+			"name": "main_bg22_png",
+			"type": "image",
+			"url": "assets/main/main_bg2.png"
+		},
+		{
+			"name": "main_circle2_png",
+			"type": "image",
+			"url": "assets/main/main_circle.png"
+		},
+		{
+			"name": "main_disk2_png",
+			"type": "image",
+			"url": "assets/main/main_disk.png"
+		},
+		{
+			"name": "main_drumstick12_png",
+			"type": "image",
+			"url": "assets/main/main_drumstick1.png"
+		},
+		{
+			"name": "main_drumstick22_png",
+			"type": "image",
+			"url": "assets/main/main_drumstick2.png"
+		},
+		{
+			"name": "main_drumstick32_png",
+			"type": "image",
+			"url": "assets/main/main_drumstick3.png"
+		},
+		{
+			"name": "main_guide_arrow2_png",
+			"type": "image",
+			"url": "assets/main/main_guide_arrow.png"
+		},
+		{
+			"name": "main_menu2_png",
+			"type": "image",
+			"url": "assets/main/main_menu.png"
+		},
+		{
+			"name": "main_people12_png",
+			"type": "image",
+			"url": "assets/main/main_people1.png"
+		},
+		{
+			"name": "main_people22_png",
+			"type": "image",
+			"url": "assets/main/main_people2.png"
+		},
+		{
+			"name": "main_x32_png",
+			"type": "image",
+			"url": "assets/main/main_x3.png"
+		},
+		{
+			"name": "main_x62_png",
+			"type": "image",
+			"url": "assets/main/main_x6.png"
+		},
+		{
+			"name": "snow2_png",
+			"type": "image",
+			"url": "assets/main/snow.png"
+		},
+		{
+			"name": "coin2_json",
+			"type": "json",
+			"url": "assets/mc/coin.json"
+		},
+		{
+			"name": "coin2_png",
+			"type": "image",
+			"url": "assets/mc/coin.png"
+		},
+		{
+			"name": "mc2_json",
+			"type": "json",
+			"url": "assets/mc/mc.json"
+		},
+		{
+			"name": "mc2_png",
+			"type": "image",
+			"url": "assets/mc/mc.png"
+		},
+		{
+			"name": "description2_json",
+			"type": "json",
+			"url": "config/description.json"
+		}
+	]
+}

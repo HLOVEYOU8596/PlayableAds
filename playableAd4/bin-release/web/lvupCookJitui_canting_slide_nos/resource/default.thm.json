@@ -1,0 +1,12 @@
+{
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/FoodDevSkin.exml",
+		"resource/eui_skins/FoodSkin.exml",
+		"resource/eui_skins/GameMainDevSkin.exml",
+		"resource/eui_skins/GameMainSkin.exml",
+		"resource/eui_skins/GameStartDevSkin.exml",
+		"resource/eui_skins/GameStartSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}

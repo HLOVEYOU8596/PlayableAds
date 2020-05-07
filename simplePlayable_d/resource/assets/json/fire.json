@@ -1,0 +1,244 @@
+{"mc":{
+	"action1":{
+		"frameRate":24,
+		"labels":[
+			{"name":"action1","frame":1,"end":16}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_000_png",
+			"x":-41,
+			"y":-177
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_002_png",
+			"x":-42,
+			"y":-179
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_004_png",
+			"x":-41,
+			"y":-181
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_006_png",
+			"x":-41,
+			"y":-186
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_008_png",
+			"x":-45,
+			"y":-193
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_010_png",
+			"x":-46,
+			"y":-200
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_012_png",
+			"x":-45,
+			"y":-201
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_014_png",
+			"x":-46,
+			"y":-198
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_016_png",
+			"x":-50,
+			"y":-190
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_018_png",
+			"x":-52,
+			"y":-186
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_020_png",
+			"x":-46,
+			"y":-190
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_022_png",
+			"x":-44,
+			"y":-192
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_024_png",
+			"x":-47,
+			"y":-193
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_026_png",
+			"x":-44,
+			"y":-185
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_028_png",
+			"x":-40,
+			"y":-181
+			},
+			{
+			"res":"Fire 018 Torch Fireball Up Loop_030_png",
+			"x":-42,
+			"y":-179
+			}
+			]
+},"action2":{
+		"frameRate":24,
+		"labels":[
+			{"name":"action2","frame":1,"end":20}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"Fire 022 Up Loop_000_png",
+			"x":-78,
+			"y":-143
+			},
+			{
+			"res":"Fire 022 Up Loop_002_png",
+			"x":-79,
+			"y":-142
+			},
+			{
+			"res":"Fire 022 Up Loop_004_png",
+			"x":-79,
+			"y":-141
+			},
+			{
+			"res":"Fire 022 Up Loop_006_png",
+			"x":-79,
+			"y":-140
+			},
+			{
+			"res":"Fire 022 Up Loop_008_png",
+			"x":-79,
+			"y":-140
+			},
+			{
+			"res":"Fire 022 Up Loop_010_png",
+			"x":-78,
+			"y":-141
+			},
+			{
+			"res":"Fire 022 Up Loop_012_png",
+			"x":-78,
+			"y":-141
+			},
+			{
+			"res":"Fire 022 Up Loop_014_png",
+			"x":-77,
+			"y":-139
+			},
+			{
+			"res":"Fire 022 Up Loop_016_png",
+			"x":-77,
+			"y":-138
+			},
+			{
+			"res":"Fire 022 Up Loop_018_png",
+			"x":-77,
+			"y":-140
+			},
+			{
+			"res":"Fire 022 Up Loop_020_png",
+			"x":-76,
+			"y":-142
+			},
+			{
+			"res":"Fire 022 Up Loop_022_png",
+			"x":-77,
+			"y":-145
+			},
+			{
+			"res":"Fire 022 Up Loop_024_png",
+			"x":-77,
+			"y":-147
+			},
+			{
+			"res":"Fire 022 Up Loop_026_png",
+			"x":-77,
+			"y":-147
+			},
+			{
+			"res":"Fire 022 Up Loop_028_png",
+			"x":-77,
+			"y":-146
+			},
+			{
+			"res":"Fire 022 Up Loop_030_png",
+			"x":-77,
+			"y":-146
+			},
+			{
+			"res":"Fire 022 Up Loop_032_png",
+			"x":-76,
+			"y":-141
+			},
+			{
+			"res":"Fire 022 Up Loop_034_png",
+			"x":-76,
+			"y":-140
+			},
+			{
+			"res":"Fire 022 Up Loop_036_png",
+			"x":-77,
+			"y":-141
+			},
+			{
+			"res":"Fire 022 Up Loop_038_png",
+			"x":-77,
+			"y":-142
+			}
+			]
+}},
+	"res":{
+		"Fire 018 Torch Fireball Up Loop_028_png":{"x":760,"y":798,"w":91,"h":201},
+		"Fire 018 Torch Fireball Up Loop_012_png":{"x":572,"y":326,"w":92,"h":221},
+		"Fire 018 Torch Fireball Up Loop_002_png":{"x":934,"y":407,"w":86,"h":199},
+		"Fire 022 Up Loop_002_png":{"x":320,"y":832,"w":157,"h":162},
+		"Fire 018 Torch Fireball Up Loop_008_png":{"x":664,"y":160,"w":94,"h":213},
+		"Fire 022 Up Loop_020_png":{"x":0,"y":832,"w":159,"h":162},
+		"Fire 022 Up Loop_014_png":{"x":472,"y":167,"w":158,"h":158},
+		"Fire 018 Torch Fireball Up Loop_022_png":{"x":631,"y":547,"w":95,"h":212},
+		"Fire 022 Up Loop_018_png":{"x":159,"y":832,"w":160,"h":159},
+		"Fire 022 Up Loop_016_png":{"x":478,"y":828,"w":160,"h":157},
+		"Fire 022 Up Loop_028_png":{"x":0,"y":0,"w":160,"h":166},
+		"Fire 018 Torch Fireball Up Loop_014_png":{"x":760,"y":579,"w":86,"h":218},
+		"Fire 018 Torch Fireball Up Loop_026_png":{"x":758,"y":160,"w":94,"h":205},
+		"Fire 018 Torch Fireball Up Loop_000_png":{"x":911,"y":211,"w":88,"h":196},
+		"Fire 022 Up Loop_008_png":{"x":472,"y":0,"w":156,"h":159},
+		"Fire 018 Torch Fireball Up Loop_004_png":{"x":847,"y":571,"w":87,"h":201},
+		"Fire 022 Up Loop_034_png":{"x":628,"y":0,"w":155,"h":159},
+		"Fire 022 Up Loop_026_png":{"x":0,"y":167,"w":160,"h":167},
+		"Fire 022 Up Loop_022_png":{"x":0,"y":500,"w":159,"h":165},
+		"Fire 022 Up Loop_004_png":{"x":317,"y":666,"w":158,"h":160},
+		"Fire 022 Up Loop_024_png":{"x":0,"y":334,"w":159,"h":166},
+		"Fire 018 Torch Fireball Up Loop_016_png":{"x":853,"y":0,"w":91,"h":210},
+		"Fire 022 Up Loop_006_png":{"x":160,"y":334,"w":157,"h":160},
+		"Fire 022 Up Loop_038_png":{"x":475,"y":666,"w":156,"h":162},
+		"Fire 022 Up Loop_030_png":{"x":0,"y":666,"w":159,"h":165},
+		"Fire 022 Up Loop_032_png":{"x":161,"y":0,"w":155,"h":161},
+		"Fire 018 Torch Fireball Up Loop_006_png":{"x":822,"y":365,"w":88,"h":206},
+		"Fire 018 Torch Fireball Up Loop_030_png":{"x":851,"y":798,"w":91,"h":198},
+		"Fire 022 Up Loop_036_png":{"x":160,"y":167,"w":156,"h":161},
+		"Fire 022 Up Loop_012_png":{"x":317,"y":0,"w":155,"h":160},
+		"Fire 018 Torch Fireball Up Loop_024_png":{"x":472,"y":326,"w":99,"h":213},
+		"Fire 018 Torch Fireball Up Loop_018_png":{"x":726,"y":373,"w":96,"h":206},
+		"Fire 018 Torch Fireball Up Loop_020_png":{"x":664,"y":759,"w":96,"h":210},
+		"Fire 018 Torch Fireball Up Loop_010_png":{"x":317,"y":328,"w":95,"h":220},
+		"Fire 022 Up Loop_010_png":{"x":316,"y":167,"w":156,"h":161},
+		"Fire 022 Up Loop_000_png":{"x":160,"y":666,"w":157,"h":163}
+	}}

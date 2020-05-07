@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameOverSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group left="0" right="0" top="0" bottom="0">
+		<e:Image id="kImgBg" source="end_bg_png" left="0" right="0" top="0" bottom="0"/>
+		<e:Group y="-2" width="1280" horizontalCenter="0" anchorOffsetY="0" height="721">
+			<e:Image id="kImgLeft" source="end_float_png" anchorOffsetX="848" anchorOffsetY="284" x="848" height="721" y="284" width="849"/>
+			<e:Image id="kImgRight" source="end_float_png" rotation="180" anchorOffsetX="850" anchorOffsetY="290" height="721" y="431" x="430" width="849"/>
+		</e:Group>
+		<e:Group x="171.5" y="0">
+			<e:Image id="kImgBan" source="end_small_bg_png" x="8.5" y="0"/>
+			<e:Image id="kImgBuildA" source="end_build_left_png" x="226" y="414" anchorOffsetX="226" anchorOffsetY="178"/>
+			<e:Image id="kImgBuildB" source="end_build_right_png" x="705" y="412" anchorOffsetX="230" anchorOffsetY="176"/>
+		</e:Group>
+	</e:Group>
+</e:Skin>

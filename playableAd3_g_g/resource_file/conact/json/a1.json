@@ -1,0 +1,94 @@
+{"mc":{
+	"a1":{
+		"frameRate":6,
+		"labels":[
+			{"name":"a1","frame":1,"end":5}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"01_japangirl_idle01_png",
+			"x":7,
+			"y":0
+			},
+			{
+			"res":"01_japangirl_idle02_png",
+			"x":7,
+			"y":0
+			},
+			{
+			"res":"01_japangirl_idle03_png",
+			"x":6,
+			"y":0
+			},
+			{
+			"res":"01_japangirl_idle04_png",
+			"x":5,
+			"y":1
+			},
+			{
+			"res":"01_japangirl_idle05_png",
+			"x":5,
+			"y":1
+			}
+			]
+},"a2":{
+		"frameRate":6,
+		"labels":[
+			{"name":"a2","frame":1,"end":6}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"02_japangirl_happy01_png",
+			"x":10,
+			"y":4
+			},
+			{
+			"res":"02_japangirl_happy02_png",
+			"x":11,
+			"y":4
+			},
+			{
+			"res":"02_japangirl_happy03_png",
+			"x":12,
+			"y":5
+			},
+			{
+			"res":"02_japangirl_happy04_png",
+			"x":13,
+			"y":5
+			},
+			{
+			"res":"02_japangirl_happy05_png",
+			"x":12,
+			"y":5
+			},
+			{
+			"res":"02_japangirl_happy06_png",
+			"x":11,
+			"y":4
+			}
+			]
+}},
+	"res":{
+		"01_japangirl_idle05_png":{"x":155,"y":245,"w":129,"h":242},
+		"01_japangirl_idle04_png":{"x":286,"y":245,"w":129,"h":242},
+		"02_japangirl_happy03_png":{"x":0,"y":245,"w":153,"h":242},
+		"01_japangirl_idle03_png":{"x":130,"y":489,"w":128,"h":243},
+		"01_japangirl_idle02_png":{"x":260,"y":489,"w":127,"h":243},
+		"02_japangirl_happy06_png":{"x":0,"y":0,"w":154,"h":243},
+		"02_japangirl_happy04_png":{"x":312,"y":0,"w":153,"h":243},
+		"01_japangirl_idle01_png":{"x":0,"y":489,"w":128,"h":243},
+		"02_japangirl_happy02_png":{"x":0,"y":0,"w":154,"h":243},
+		"02_japangirl_happy01_png":{"x":156,"y":0,"w":154,"h":243},
+		"02_japangirl_happy05_png":{"x":0,"y":245,"w":153,"h":242}
+	}}

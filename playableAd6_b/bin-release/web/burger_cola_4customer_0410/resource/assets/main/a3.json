@@ -1,0 +1,64 @@
+{"mc":{
+	"a3":{
+		"frameRate":8,
+		"labels":[
+			{"name":"a3","frame":1,"end":8}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"beardman_idle_01_png",
+			"x":35,
+			"y":48
+			},
+			{
+			"res":"beardman_happy_01_png",
+			"x":23,
+			"y":2
+			},
+			{
+			"res":"beardman_happy_02_png",
+			"x":20,
+			"y":3
+			},
+			{
+			"res":"beardman_happy_03_png",
+			"x":15,
+			"y":4
+			},
+			{
+			"res":"beardman_happy_04_png",
+			"x":13,
+			"y":5
+			},
+			{
+			"res":"beardman_happy_05_png",
+			"x":17,
+			"y":4
+			},
+			{
+			"res":"beardman_happy_06_png",
+			"x":20,
+			"y":3
+			},
+			{
+			"res":"beardman_happy_07_png",
+			"x":23,
+			"y":2
+			}
+			]
+}},
+	"res":{
+		"beardman_happy_06_png":{"x":467,"y":573,"w":234,"h":288},
+		"beardman_happy_02_png":{"x":701,"y":573,"w":233,"h":288},
+		"beardman_happy_01_png":{"x":241,"y":0,"w":230,"h":289},
+		"beardman_happy_05_png":{"x":0,"y":573,"w":237,"h":287},
+		"beardman_happy_04_png":{"x":0,"y":0,"w":241,"h":286},
+		"beardman_happy_07_png":{"x":471,"y":0,"w":230,"h":289},
+		"beardman_idle_01_png":{"x":237,"y":573,"w":230,"h":295},
+		"beardman_happy_03_png":{"x":0,"y":286,"w":239,"h":287}
+	}}

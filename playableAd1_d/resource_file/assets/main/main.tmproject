@@ -1,0 +1,28 @@
+{
+    "projectName": "main",
+    "version": 5,
+    "files": [
+        "./main_xuxian.png",
+        "./main_right.png",
+        "./main_reward_bg.png",
+        "./main_order1.png",
+        "./main_icon_coin.png",
+        "./main_guide_arrow.png",
+        "./main_grampa_normal.png",
+        "./main_food_fu.png",
+        "./main_drumstick_2.png",
+        "./main_drumstick_1.png",
+        "./main_drumstick_0.png",
+        "./main_coke2.png",
+        "./main_coke1.png",
+        "./main_aunt_normal.png",
+        "./main_alert_bg.png"
+    ],
+    "options": {
+        "sizeMode": "2n",
+        "useExtension": 1,
+        "layoutGap": 1,
+        "extend": 0,
+        "layoutMath": "3"
+    }
+}

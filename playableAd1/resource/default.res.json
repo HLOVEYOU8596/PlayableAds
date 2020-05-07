@@ -1,0 +1,69 @@
+{
+	"groups": [
+		{
+			"keys": "main_bg1_png,main_bg2_png,main_bg3_jpg,main_bg12_png,main_bg22_png,main_bg32_jpg,description2_json",
+			"name": "preload"
+		},
+		{
+			"keys": "",
+			"name": "ani"
+		},
+		{
+			"keys": "main_json,circleblack_png",
+			"name": "main"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/main/main.json",
+			"type": "sheet",
+			"name": "main_json",
+			"subkeys": "main_alert_bg_png,main_aunt_normal_png,main_coke1_png,main_coke2_png,main_drumstick_0_png,main_drumstick_1_png,main_drumstick_2_png,main_food_fu_png,main_grampa_normal_png,main_guide_arrow_png,main_icon_coin_png,main_order1_png,main_reward_bg_png,main_right_png,main_xuxian_png"
+		},
+		{
+			"url": "assets/main/main_bg1.png",
+			"type": "image",
+			"name": "main_bg1_png"
+		},
+		{
+			"url": "assets/main/main_bg2.png",
+			"type": "image",
+			"name": "main_bg2_png"
+		},
+		{
+			"url": "assets/main/main_bg3.jpg",
+			"type": "image",
+			"name": "main_bg3_jpg"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/main/main_bg1.png",
+			"type": "image",
+			"name": "main_bg12_png"
+		},
+		{
+			"url": "assets/main/main_bg2.png",
+			"type": "image",
+			"name": "main_bg22_png"
+		},
+		{
+			"url": "assets/main/main_bg3.jpg",
+			"type": "image",
+			"name": "main_bg32_jpg"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description2_json"
+		},
+		{
+			"url": "assets/main/circleblack.png",
+			"type": "image",
+			"name": "circleblack_png"
+		}
+	]
+}

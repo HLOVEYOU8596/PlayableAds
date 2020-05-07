@@ -1,0 +1,262 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,loading_bg_png,loading_c_png",
+			"name": "preload"
+		},
+		{
+			"keys": "coin_json,coin_png,snow_json",
+			"name": "mc"
+		},
+		{
+			"keys": "main_arrow_png,main_bg1_png,main_bg2_png,main_cake1_png,main_cake2_png,main_cake3_png,main_Cake4_png,main_circle_png,main_continue_png,main_disk_png,main_disks_png,main_drumstick1_png,main_drumstick3_png,main_drumstick4_png,main_drumstick5_png,main_good1_png,main_good2_png,main_good3_png,main_guide_arrow_png,main_jia_png,main_menu_bg_png,main_menu_png,main_people1_png,main_people2_png,main_people3_png,main_progress_png,main_suo_png,main_swipe_png,main_tips_bg_png,main_tips_png,main_upgrade_png,main_x3_png,main_x6_png,snow_png,main_progress_bg_png",
+			"name": "main"
+		},
+		{
+			"keys": "start_bg_png,start_choose_png,start_girl_png,start_house1_png,start_house2_png,start_house3_png,start_resturent_png",
+			"name": "start"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/load/loading_bg.png",
+			"type": "image",
+			"name": "loading_bg_png"
+		},
+		{
+			"url": "assets/load/loading_c.png",
+			"type": "image",
+			"name": "loading_c_png"
+		},
+		{
+			"url": "assets/mc/coin.json",
+			"type": "json",
+			"name": "coin_json"
+		},
+		{
+			"url": "assets/mc/coin.png",
+			"type": "image",
+			"name": "coin_png"
+		},
+		{
+			"url": "assets/start/start_bg.png",
+			"type": "image",
+			"name": "start_bg_png"
+		},
+		{
+			"url": "assets/start/start_choose.png",
+			"type": "image",
+			"name": "start_choose_png"
+		},
+		{
+			"url": "assets/start/start_girl.png",
+			"type": "image",
+			"name": "start_girl_png"
+		},
+		{
+			"url": "assets/start/start_house1.png",
+			"type": "image",
+			"name": "start_house1_png"
+		},
+		{
+			"url": "assets/start/start_house2.png",
+			"type": "image",
+			"name": "start_house2_png"
+		},
+		{
+			"url": "assets/start/start_house3.png",
+			"type": "image",
+			"name": "start_house3_png"
+		},
+		{
+			"url": "assets/start/start_resturent.png",
+			"type": "image",
+			"name": "start_resturent_png"
+		},
+		{
+			"url": "assets/mc/snow.json",
+			"type": "json",
+			"name": "snow_json"
+		},
+		{
+			"url": "assets/main/main_arrow.png",
+			"type": "image",
+			"name": "main_arrow_png"
+		},
+		{
+			"url": "assets/main/main_bg1.png",
+			"type": "image",
+			"name": "main_bg1_png"
+		},
+		{
+			"url": "assets/main/main_bg2.png",
+			"type": "image",
+			"name": "main_bg2_png"
+		},
+		{
+			"url": "assets/main/main_cake1.png",
+			"type": "image",
+			"name": "main_cake1_png"
+		},
+		{
+			"url": "assets/main/main_cake2.png",
+			"type": "image",
+			"name": "main_cake2_png"
+		},
+		{
+			"url": "assets/main/main_cake3.png",
+			"type": "image",
+			"name": "main_cake3_png"
+		},
+		{
+			"url": "assets/main/main_Cake4.png",
+			"type": "image",
+			"name": "main_Cake4_png"
+		},
+		{
+			"url": "assets/main/main_circle.png",
+			"type": "image",
+			"name": "main_circle_png"
+		},
+		{
+			"url": "assets/main/main_continue.png",
+			"type": "image",
+			"name": "main_continue_png"
+		},
+		{
+			"url": "assets/main/main_disk.png",
+			"type": "image",
+			"name": "main_disk_png"
+		},
+		{
+			"url": "assets/main/main_disks.png",
+			"type": "image",
+			"name": "main_disks_png"
+		},
+		{
+			"url": "assets/main/main_drumstick1.png",
+			"type": "image",
+			"name": "main_drumstick1_png"
+		},
+		{
+			"url": "assets/main/main_drumstick3.png",
+			"type": "image",
+			"name": "main_drumstick3_png"
+		},
+		{
+			"url": "assets/main/main_drumstick4.png",
+			"type": "image",
+			"name": "main_drumstick4_png"
+		},
+		{
+			"url": "assets/main/main_drumstick5.png",
+			"type": "image",
+			"name": "main_drumstick5_png"
+		},
+		{
+			"url": "assets/main/main_good1.png",
+			"type": "image",
+			"name": "main_good1_png"
+		},
+		{
+			"url": "assets/main/main_good2.png",
+			"type": "image",
+			"name": "main_good2_png"
+		},
+		{
+			"url": "assets/main/main_good3.png",
+			"type": "image",
+			"name": "main_good3_png"
+		},
+		{
+			"url": "assets/main/main_guide_arrow.png",
+			"type": "image",
+			"name": "main_guide_arrow_png"
+		},
+		{
+			"url": "assets/main/main_jia.png",
+			"type": "image",
+			"name": "main_jia_png"
+		},
+		{
+			"url": "assets/main/main_menu_bg.png",
+			"type": "image",
+			"name": "main_menu_bg_png"
+		},
+		{
+			"url": "assets/main/main_menu.png",
+			"type": "image",
+			"name": "main_menu_png"
+		},
+		{
+			"url": "assets/main/main_people1.png",
+			"type": "image",
+			"name": "main_people1_png"
+		},
+		{
+			"url": "assets/main/main_people2.png",
+			"type": "image",
+			"name": "main_people2_png"
+		},
+		{
+			"url": "assets/main/main_people3.png",
+			"type": "image",
+			"name": "main_people3_png"
+		},
+		{
+			"url": "assets/main/main_progress.png",
+			"type": "image",
+			"name": "main_progress_png"
+		},
+		{
+			"url": "assets/main/main_suo.png",
+			"type": "image",
+			"name": "main_suo_png"
+		},
+		{
+			"url": "assets/main/main_swipe.png",
+			"type": "image",
+			"name": "main_swipe_png"
+		},
+		{
+			"url": "assets/main/main_tips_bg.png",
+			"type": "image",
+			"name": "main_tips_bg_png"
+		},
+		{
+			"url": "assets/main/main_tips.png",
+			"type": "image",
+			"name": "main_tips_png"
+		},
+		{
+			"url": "assets/main/main_upgrade.png",
+			"type": "image",
+			"name": "main_upgrade_png"
+		},
+		{
+			"url": "assets/main/main_x3.png",
+			"type": "image",
+			"name": "main_x3_png"
+		},
+		{
+			"url": "assets/main/main_x6.png",
+			"type": "image",
+			"name": "main_x6_png"
+		},
+		{
+			"url": "assets/main/snow.png",
+			"type": "image",
+			"name": "snow_png"
+		},
+		{
+			"url": "assets/main/main_progress_bg.png",
+			"type": "image",
+			"name": "main_progress_bg_png"
+		}
+	]
+}

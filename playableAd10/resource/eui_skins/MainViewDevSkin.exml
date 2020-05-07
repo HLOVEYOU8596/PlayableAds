@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainViewDevSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x000000"/>
+	<e:Group id="kGrpMain" height="720" width="1280" verticalCenter="0" horizontalCenter="0" scrollEnabled="true" anchorOffsetX="1006.06" anchorOffsetY="481.82">
+		<e:Group id="kGrpBg" left="0" right="0" top="0" bottom="0">
+			<e:Image id="kImgBg2" x="0" y="0" source=""/>
+			<e:Image id="kImgTree1" source="" x="990" y="230" anchorOffsetX="294" anchorOffsetY="226"/>
+			<e:Image id="kImgTree2" source="" y="308" anchorOffsetX="208" anchorOffsetY="306" x="1057"/>
+			<e:Image id="kImgTree3" source="" x="152" top="34" anchorOffsetX="150" anchorOffsetY="189.39"/>
+			<e:Image id="kImgTree4" source="" y="311.58" x="335.01" anchorOffsetX="334.85" anchorOffsetY="307.58"/>
+			<e:Image id="kImgBg1" x="0" bottom="0" source=""/>
+			<e:Image id="kImgTips2" source="" x="641" y="48" anchorOffsetX="380" anchorOffsetY="48" visible="false"/>
+			<e:Image id="kImgPool1" source="" y="594.24" x="697.36" anchorOffsetX="583" anchorOffsetY="125"/>
+			<e:Image id="kImgUmbllear1" source="" x="132" y="368" anchorOffsetX="240" anchorOffsetY="172"/>
+			<e:Image id="kImgUmbllear2" source="" x="301.52" y="359.76" anchorOffsetX="201.52" anchorOffsetY="175.76"/>
+			<e:Image id="kImgCirle1" source="" x="1034" y="536" anchorOffsetX="84" anchorOffsetY="80"/>
+			<e:Image id="kImgCirle2" source="" x="1020" y="536" anchorOffsetX="106" anchorOffsetY="74"/>
+			<e:Image id="kImgChair1" source="" x="690.24" y="411.52" anchorOffsetX="224.24" anchorOffsetY="51.52"/>
+			<e:Image id="kImgChair2" source="" x="681.94" y="414.61" anchorOffsetX="193.94" anchorOffsetY="60.61"/>
+			<e:Image source="" x="96" y="349" id="kImgSetting2" anchorOffsetX="72" anchorOffsetY="78"/>
+			<e:Image source="" x="1111" y="198" id="kImgSetting1" anchorOffsetX="77" anchorOffsetY="78"/>
+			<e:Image id="kImgSetting4" source="" x="1052" y="525" anchorOffsetX="80" anchorOffsetY="76"/>
+			<e:Image id="kImgSetting3" source="" x="681" y="406" anchorOffsetX="75" anchorOffsetY="80"/>
+		</e:Group>
+		<e:Group id="kGrpPeople" x="-500" y="70" locked="true">
+			<e:Image id="kImgPeople" source="" x="0" y="0"/>
+			<e:Image id="kImgTips" source="" x="353" y="294" anchorOffsetY="168" scaleX="0" scaleY="0"/>
+		</e:Group>
+		<e:Group id="kGrpSnow" left="0" right="0" top="0" bottom="0" touchThrough="true" locked="true"></e:Group>
+		<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0" touchThrough="true" locked="true"></e:Group>
+		<e:Image id="kImgSwipe" source="" y="486" anchorOffsetX="242" anchorOffsetY="54" horizontalCenter="0" visible="false"/>
+		<e:Group id="kGrpMenu" x="637.59" y="113.94" anchorOffsetX="0" width="542" anchorOffsetY="0" height="163" locked="true">
+			<e:Image id="kImgRight" source="" x="470.5" anchorOffsetX="60" anchorOffsetY="62" verticalCenter="0.5"/>
+			<e:Image id="kImgLine1" source="" verticalCenter="0" horizontalCenter="-173.5"/>
+			<e:Image id="kImgLine2" source="" horizontalCenter="25.5" verticalCenter="0"/>
+			<e:Group id="kGrpChoice1" x="6" y="4" anchorOffsetX="0" width="183" anchorOffsetY="0" height="156">
+			<e:Image id="kImgChoice1" source="" horizontalCenter="0" verticalCenter="0"/>
+			</e:Group>
+			<e:Group id="kGrpChoice2" x="205.06" y="1" anchorOffsetX="0" width="183" anchorOffsetY="0" height="156">
+			<e:Image id="kImgChoice2" source="" horizontalCenter="0" verticalCenter="0"/>
+			</e:Group>
+		</e:Group>
+		<e:Image id="kImgHand" source="" x="688" y="360" visible="false"/>
+		<e:Group id="kGrpGuide" left="0" right="0" top="0" bottom="0" touchThrough="true" locked="true"/>
+		<e:Group id="kGrpEnd" touchThrough="true" left="0" right="0" top="0" bottom="0" locked="true" visible="false">
+			<e:Rect fillAlpha="0.4" left="0" right="0" top="0" bottom="0"/>
+			<e:Image id="kImgEnd" source="main_end_png" x="161" y="70"/>
+			<e:Image id="kBtnContinue" source="main_continue_png" x="929.45" y="545.39" anchorOffsetX="130.3" anchorOffsetY="42.42"/>
+		</e:Group>
+	</e:Group>
+</e:Skin>

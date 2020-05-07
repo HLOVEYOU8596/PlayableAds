@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainViewSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x000000"/>
+	<e:Group id="kGrpMain" height="720" width="1280" verticalCenter="0" horizontalCenter="0" scrollEnabled="true">
+		<e:Group id="kGrpBg" left="0" right="0" top="0" bottom="0">
+			<e:Image id="kImgBg1" source="main_bg1_png" x="0" y="0"/>
+			<e:Group id="kGrpPeople1" x="-365" y="30">
+				<e:Image x="0" y="0" source="main_people2_png" id="kImgPeople1"/>
+				<e:ProgressBar id="kProgress1" width="147" height="15" x="150" y="180" skinName="ProgressBarSkin" value="0" rotation="-90" slideDuration="100"/>
+				<e:Group id="kGrpMenu1" x="180" y="117" anchorOffsetX="2" anchorOffsetY="88" visible="false">
+					<e:Image id="kImgMenu1" source="main_menu_png" x="0" y="0"/>
+					<e:Image id="kImgNum1" source="main_x3_png" x="93" y="93.5"/>
+				</e:Group>
+			</e:Group>
+			<e:Group id="kGrpPeople2" x="-357" y="30" locked="true">
+				<e:Image source="main_people1_png" x="0" y="0" id="kImgPeople2"/>
+				<e:ProgressBar id="kProgress2" width="147" height="15" x="150" y="180" skinName="ProgressBarSkin" value="0" rotation="-90"/>
+				<e:Group id="kGrpMenu2" x="180" y="110" anchorOffsetX="2" anchorOffsetY="82" visible="false">
+					<e:Image id="kImgMenu2" source="main_menu_png" x="0" y="0"/>
+					<e:Image id="kImgNum2" source="main_x6_png" x="88" y="86"/>
+				</e:Group>
+			</e:Group>
+			<e:Group id="kGrpPeople3" x="-365" y="30" locked="true">
+				<e:Image x="0" y="0" source="main_people3_png" id="kImgPeople3"/>
+				<e:ProgressBar id="kProgress3" width="147" height="15" x="150" y="180" skinName="ProgressBarSkin" value="0" rotation="-90"/>
+				<e:Group id="kGrpMenu3" x="180" y="117" anchorOffsetX="2" anchorOffsetY="88" visible="false">
+					<e:Image id="kImgMenu3" source="main_menu_png" x="0" y="0"/>
+					<e:Image id="kImgNum3" source="main_x3_png" x="93" y="93.5"/>
+				</e:Group>
+			</e:Group>
+			<e:Image id="kImgbg2" source="main_bg2_png" x="0" bottom="0"/>
+			<e:Image id="kImgPancake3" source="main_cake1_png" x="253.55" y="359.33" anchorOffsetX="66.67" anchorOffsetY="57.58"/>
+			<e:Image id="kImgPancake2" source="main_cake1_png" x="189.01" y="440.24" anchorOffsetX="66.67" anchorOffsetY="57.58"/>
+			<e:Image id="kImgPancake1" source="main_cake1_png" x="121.43" y="524.18" anchorOffsetX="69.7" anchorOffsetY="60.61"/>
+			<e:Image id="kImgPancake6" source="main_cake1_png" x="385.97" y="367.51" anchorOffsetX="69.7" anchorOffsetY="60.61" visible="false"/>
+			<e:Image id="kImgPancake5" source="main_cake1_png" x="329.31" y="444.17" anchorOffsetX="69.7" anchorOffsetY="60.61" visible="false"/>
+			<e:Image id="kImgPancake4" x="269.61" y="532.97" anchorOffsetX="69.7" anchorOffsetY="60.61" source="main_cake1_png" visible="false"/>
+			<e:Image id="kImgLocked6" source="main_suo_png" x="260.3" y="401.54"/>
+			<e:Image id="kImgLocked5" source="main_suo_png" x="310.91" y="315.78"/>
+			<e:Image id="kImgLocked4" source="main_suo_png" x="200.91" y="496.69"/>
+		</e:Group>
+		<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0" locked="true"/>
+		
+		<e:Group id="kGrpHam" left="0" right="0" top="0" bottom="0" locked="true"></e:Group>
+		<e:Group id="kGrpTips" x="636.36" y="356.12" anchorOffsetX="636.36" anchorOffsetY="112.12" visible="false" locked="true">
+			<e:Image source="main_tips_bg_png" y="0" x="0" id="kImgTipsBg"/>
+			<e:Image source="main_tips_png" x="173" y="33" id="kImgTips"/>
+		</e:Group>
+		<e:Image id="kBtnContinue" source="main_continue_png" x="1090.17" y="603.84" locked="true"/>	
+		<e:Group id="kGrpSnow" left="0" right="0" top="0" bottom="0" locked="true"/>
+		
+		<e:Rect id="kImgRect" left="0" right="0" top="0" bottom="0" fillAlpha="0.4" visible="false"/>
+		<e:Group id="kGrpShop" horizontalCenter="0" verticalCenter="0" scaleX="0" scaleY="0" locked="true">
+			<e:Image id="kImgShop" source="main_jia_png" horizontalCenter="0" verticalCenter="0"/>
+			<e:Image id="kImgGoods1" x="148.22" y="477.84" source="main_good1_png"/>
+			<e:Image id="kImgGoods2" x="519.74" y="545.12" source="main_good2_png" anchorOffsetX="81.82" anchorOffsetY="57.58"/>
+			<e:Image id="kBtnUpgrade1" source="main_upgrade_png" x="264.06" y="650.2" anchorOffsetX="78.79" anchorOffsetY="30.3"/>
+			<e:Image id="kBtnUpgrade2" source="main_upgrade_png" x="521.09" y="650.2" anchorOffsetX="78.79" anchorOffsetY="30.3"/>
+		</e:Group>
+		<e:Group id="kGrpGuide" left="0" right="0" top="0" bottom="0" locked="true"/>
+		
+	</e:Group>
+	<e:Image id="kImgSwipe" source="main_swipe_png" y="476.91" anchorOffsetX="178.36" anchorOffsetY="44.91" horizontalCenter="60" locked="true" visible="false"/>
+</e:Skin>

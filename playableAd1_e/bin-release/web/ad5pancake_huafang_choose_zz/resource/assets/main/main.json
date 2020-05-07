@@ -1,0 +1,16 @@
+{"file":"main.png","frames":{
+"main_alert_bg_png":{"x":851,"y":1,"w":126,"h":242,"offX":0,"offY":0,"sourceW":126,"sourceH":242},
+"main_aunt_normal_png":{"x":689,"y":1,"w":160,"h":278,"offX":3,"offY":2,"sourceW":169,"sourceH":283},
+"main_coke1_png":{"x":420,"y":241,"w":52,"h":51,"offX":104,"offY":66,"sourceW":172,"sourceH":135},
+"main_coke2_png":{"x":183,"y":125,"w":112,"h":166,"offX":0,"offY":0,"sourceW":112,"sourceH":166},
+"main_drumstick_0_png":{"x":851,"y":245,"w":121,"h":117,"offX":22,"offY":14,"sourceW":161,"sourceH":145},
+"main_drumstick_1_png":{"x":297,"y":256,"w":121,"h":117,"offX":22,"offY":14,"sourceW":161,"sourceH":145},
+"main_drumstick_2_png":{"x":689,"y":281,"w":123,"h":111,"offX":37,"offY":6,"sourceW":172,"sourceH":135},
+"main_food_fu_png":{"x":420,"y":298,"w":82,"h":61,"offX":0,"offY":15,"sourceW":86,"sourceH":88},
+"main_grampa_normal_png":{"x":502,"y":1,"w":185,"h":295,"offX":57,"offY":1,"sourceW":246,"sourceH":296},
+"main_guide_arrow_png":{"x":297,"y":125,"w":120,"h":129,"offX":0,"offY":0,"sourceW":120,"sourceH":129},
+"main_icon_coin_png":{"x":419,"y":125,"w":57,"h":59,"offX":0,"offY":0,"sourceW":57,"sourceH":59},
+"main_order1_png":{"x":183,"y":293,"w":104,"h":84,"offX":7,"offY":71,"sourceW":126,"sourceH":242},
+"main_reward_bg_png":{"x":1,"y":1,"w":499,"h":122,"offX":0,"offY":0,"sourceW":499,"sourceH":122},
+"main_right_png":{"x":419,"y":186,"w":54,"h":53,"offX":0,"offY":0,"sourceW":54,"sourceH":53},
+"main_xuxian_png":{"x":1,"y":125,"w":180,"h":180,"offX":0,"offY":0,"sourceW":180,"sourceH":180}}}

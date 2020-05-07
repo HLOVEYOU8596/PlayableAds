@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameStartSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*">
+	<w:Declarations>
+	</w:Declarations>
+	<e:Rect left="0" right="0" top="0" bottom="0"/>
+	<e:Group id="kGrpMain" width="1280" height="720" horizontalCenter="0" verticalCenter="0">
+		<e:Image id="kImgBg" left="0" right="0" top="0" bottom="0" source="start_bg_png"/>
+		<e:Image id="kImgLux" source="start_lux_png" x="707.5" y="250" anchorOffsetX="398" anchorOffsetY="402" scaleX="2" scaleY="2" visible="false"/>
+		<e:Image id="kImgBox" source="start_box_close_png" x="705.5" y="314" anchorOffsetX="208" anchorOffsetY="256"/>
+		<e:Image id="kBtnTap" source="start_tap_png" x="706.5" y="498" anchorOffsetX="246" anchorOffsetY="88"/>
+		<e:Image id="kImgHand" source="main_guide_arrow_png" x="684.5" y="186" touchEnabled="false" visible="false"/>
+		<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0" touchThrough="true" touchEnabled="false" locked="true">
+		</e:Group>
+		<e:Rect id="kImgMask" left="0" right="0" top="0" bottom="0" fillColor="0xffffff" fillAlpha="0" touchEnabled="false"/>
+	</e:Group>
+</e:Skin>

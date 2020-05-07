@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameEndDevSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="kGrpMain" width="1280" height="720" horizontalCenter="0" verticalCenter="0">
+		<e:Image id="kImgBg" source="" horizontalCenter="0" verticalCenter="0"/>
+		<e:Image id="kImgTips" source="" y="647" horizontalCenter="0" anchorOffsetX="240" anchorOffsetY="24"/>
+		<e:Image id="kImgLogo1" source="" x="-211" y="332" anchorOffsetX="186" anchorOffsetY="188" scaleX="1.2" scaleY="1.2"/>
+		<e:Image id="kImgLogo2" source="" x="1503" y="340" anchorOffsetX="184" anchorOffsetY="184" scaleX="1.2" scaleY="1.2"/>
+		<e:Image id="kImgTopic" source="" y="-171" horizontalCenter="0"/>
+		<e:Image id="kImgHand" source="" x="380" y="360" anchorOffsetX="62" anchorOffsetY="62" visible="false"/>
+	</e:Group>
+</e:Skin>

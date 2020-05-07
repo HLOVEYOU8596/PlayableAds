@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameStartDevSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui">
+<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x000000"/>
+	<e:Group id="kGrpMain" width="1280" height="720" horizontalCenter="0" verticalCenter="0">
+		<e:Image id="kImgBg" source="" left="0" right="0" top="0" bottom="0" locked="true"/>
+		<e:Group id="kGrpTips1" y="88" horizontalCenter="0" anchorOffsetX="378.79" anchorOffsetY="42.42">
+			<e:Image id="kImgTips1Bg" source="" horizontalCenter="0" verticalCenter="0"/>
+			<e:Image id="kImgTips1" source="" horizontalCenter="0" verticalCenter="0"/>
+		</e:Group>
+		<e:Group id="kGrpTips2" y="633" horizontalCenter="0" anchorOffsetX="551.52" anchorOffsetY="48.48" locked="true">
+			<e:Image id="kImgTips2Bg" source="" horizontalCenter="0" verticalCenter="0"/>
+			<e:Image id="kImgTips2" source="" horizontalCenter="0" verticalCenter="0"/>
+		</e:Group>
+		<e:Group id="kGrpContent" anchorOffsetX="0" width="1074.91" horizontalCenter="0.5" height="350" verticalCenter="0" locked="true">
+			<e:Image id="kImgBuildA" source="" x="181.82" y="183.82" anchorOffsetX="181.82" anchorOffsetY="181.82"/>
+			<e:Image id="kImgBuildB" source="" x="545.79" y="178.79" anchorOffsetX="178.79" anchorOffsetY="178.79"/>
+			<e:Image id="kImgBuildC" source="" x="904.88" y="181.76" anchorOffsetX="187.88" anchorOffsetY="175.76"/>
+			<e:Image id="kImgArrow" source="" x="1134" y="563"/>
+		</e:Group>
+        <e:Image id="kImgGirl" source="" right="0" bottom="0"  touchEnabled="false"/>
+</e:Group>      
+</e:Skin>

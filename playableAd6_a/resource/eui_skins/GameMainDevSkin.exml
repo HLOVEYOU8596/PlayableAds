@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameMainDevSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Rect left="0" right="0" top="0" bottom="0" visible="false" />
+	<e:Group id="kGrpMain" horizontalCenter="0" verticalCenter="0" width="1280" height="720" scrollEnabled="true">
+		<e:Image id="kImgBg1" source="" top="0" horizontalCenter="0" />
+		<e:Group id="kGrpPeople1" x="-200" y="55" locked="true">
+			<e:Group id="kGrpMenu1" x="158" y="131" anchorOffsetX="2" anchorOffsetY="102" scaleX="0" scaleY="0">
+				<e:Image id="kImgMenu1" source="" x="0" y="0" />
+				<e:Image source="" y="10" horizontalCenter="0.5" id="kImgOrder1"/>
+				<e:Image source="" y="102" horizontalCenter="0.5" id="kImgOrder2"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="kGrpPeople2" x="-200" y="55">
+			<e:Group id="kGrpMenu2" x="188" y="130" anchorOffsetX="-2" anchorOffsetY="102" scaleX="0" scaleY="0">
+				<e:Image id="kImgMenu2" source="" x="0" y="0" />
+				<e:Image source="" y="18" horizontalCenter="0.5" id="kImgOrder3"/>
+				<e:Image source="" y="106" horizontalCenter="0.5" id="kImgOrder4"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="kGrpPeople3" x="-200" y="55" locked="true">
+			<e:Group id="kGrpMenu3" x="146" y="132" anchorOffsetX="-2" anchorOffsetY="104" scaleX="0" scaleY="0">
+				<e:Image id="kImgMenu3" source="" x="0" y="0" />
+				<e:Image source="" y="14" horizontalCenter="0.5" id="kImgOrder5"/>
+				<e:Image source="" y="106" horizontalCenter="0.5" id="kImgOrder6"/>
+			</e:Group>
+		</e:Group>
+		<e:Image id="kImgBg2" source="" bottom="0" horizontalCenter="0"/>
+		<e:Group id="kGrpBow" x="940" y="297.55">
+			<e:Image id="kImgBow1" source="" x="0" y="0"/>
+			<e:Image id="kImgBow2" source="" x="32.5" y="56.45"/>
+			<e:Image id="kImgBow3" source="" x="74" y="142.28"/>
+		</e:Group>
+		<ns1:Drumstick id="kDrumstick3" width="272" height="189" x="659" y="354" anchorOffsetX="136" anchorOffsetY="94" currentState="state1" skinName="DrumstickDevSkin" scaleX="0" scaleY="0"/>
+		<ns1:Drumstick id="kDrumstick6" width="272" height="189" x="819" y="350" anchorOffsetX="136" anchorOffsetY="94" skinName="DrumstickSkin" scaleX="0" scaleY="0"/>
+		<ns1:Drumstick id="kDrumstick2" width="272" height="189" x="651" y="456" anchorOffsetX="136" anchorOffsetY="94" currentState="state1" scaleX="0" scaleY="0" skinName="DrumstickDevSkin"/>
+		<ns1:Drumstick id="kDrumstick5" width="272" height="189" x="829" y="454" anchorOffsetX="136" anchorOffsetY="94" currentState="state1" scaleX="0" scaleY="0" skinName="DrumstickDevSkin"/>
+		<ns1:Drumstick id="kDrumstick4" width="272" height="189" x="841" y="569" anchorOffsetX="136" anchorOffsetY="94" currentState="state1" skinName="DrumstickDevSkin" scaleX="0" scaleY="0"/>
+		<ns1:Drumstick id="kDrumstick1" width="272" height="189" x="635" y="570" anchorOffsetX="136" anchorOffsetY="94" currentState="state1" skinName="DrumstickDevSkin" scaleX="0" scaleY="0"/>
+		<e:Image id="kImgDrumstick6" source="" x="517.5" y="297.8" anchorOffsetX="62" anchorOffsetY="69.5" scaleX="0.7" scaleY="0.7"/>
+		<e:Image id="kImgDrumstick3" source="" x="493.5" y="369.8" anchorOffsetX="64" anchorOffsetY="64" scaleX="0.8" scaleY="0.8"/>
+		<e:Image id="kImgDrumstick5" source="" x="353.5" y="296.8" anchorOffsetX="67" anchorOffsetY="64.5" scaleX="0.7" scaleY="0.7"/>
+		<e:Image id="kImgDrumstick4" source="" x="323.5" y="369.8" anchorOffsetX="64" anchorOffsetY="70" scaleX="0.8" scaleY="0.8"/>
+		<e:Image id="kImgDrumstick1" source="" x="469" y="441" anchorOffsetX="62" anchorOffsetY="68.67" scaleX="0.9" scaleY="0.9"/>
+		<e:Image id="kImgDrumstick2" source="" x="290" y="441" anchorOffsetX="62" anchorOffsetY="65.33" scaleX="0.9" scaleY="0.9"/>
+		<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0" locked="true">
+		</e:Group>
+		<e:Group id="kGrpEnd" x="636" y="363" anchorOffsetX="324" anchorOffsetY="332" scaleX="0" scaleY="0">
+			<e:Image id="kImgLux" source="" x="324" y="328" anchorOffsetX="324" anchorOffsetY="328"/>
+			<e:Image id="kImgBox" source="" x="316" y="384.5" anchorOffsetX="156" anchorOffsetY="192"/>
+		</e:Group>
+		<e:Group id="kGrpClose" horizontalCenter="0" verticalCenter="0" width="1136" height="640" scrollEnabled="true" visible="false">
+				<e:Image id="kImgEndBg" source="" x="0" y="0"/>
+				<e:Image id="kImgFood4" source="" x="1193.05" y="319.85" anchorOffsetX="54.55" anchorOffsetY="84.85"/>
+				<e:Image id="kImgFood2" source="" x="-57.28" y="316" anchorOffsetX="60" anchorOffsetY="106"/>
+				<e:Image id="kImgFood1" source="" x="1331.61" y="426.42" anchorOffsetX="195.76" anchorOffsetY="166.42"/>
+				<e:Image id="kImgFood3" source="" x="-186.61" y="418" anchorOffsetX="205.94" anchorOffsetY="168.24"/>
+				<e:Image id="kImgTips" source="" y="736" horizontalCenter="0"/>
+				<e:Image id="kImgContent" source="" y="200" anchorOffsetX="359.09" anchorOffsetY="130" horizontalCenter="0"/>
+				<e:Image id="kImgHand" source="" x="200" y="440" visible="false"/>
+		</e:Group>
+		<e:Group id="kGrpGuide" left="0" right="0" top="0" bottom="0" locked="true"/>
+	</e:Group>
+</e:Skin>

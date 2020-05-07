@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SanSkin" width="170" height="170" currentState="state1" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  states="state1" >
+	<e:Group id="kGrpDiv" left="0" right="0" top="0" bottom="0">
+		<e:Image id="kImgFood1" source="" horizontalCenter="0" bottom="0" anchorOffsetX="73" anchorOffsetY="45"/>
+		<e:Image id="kImgFood2" source="" y="109" horizontalCenter="0" anchorOffsetX="70" anchorOffsetY="49" visible.state1="false"/>
+		<e:Image id="kImgFood3" source="" y="90" horizontalCenter="0" anchorOffsetX="75" anchorOffsetY="45" visible.state1="false"/>
+		<e:Image id="kImgFood4" source="" y="74" horizontalCenter="0" anchorOffsetX="75" anchorOffsetY="43" visible.state1="false"/>
+		<e:Image id="kImgFood5" source="" y="50" horizontalCenter="0" anchorOffsetX="76" anchorOffsetY="50" visible.state1="false"/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameStartDevSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*">
+	<w:Declarations>
+	</w:Declarations>
+	<e:Rect left="0" right="0" top="0" bottom="0"/>
+	<e:Group id="kGrpMain" width="1280" height="720" horizontalCenter="0" verticalCenter="0">
+		<e:Image id="kImgBg" left="0" right="0" top="0" bottom="0" source=""/>
+		<e:Group id="kGrpVideo" left="0" right="0" top="0" bottom="0">
+		</e:Group>
+		<e:Rect id="kImgMask" left="0" right="0" top="0" bottom="0" fillAlpha="0.5" visible="false"/>
+		<e:Group id="kGrpShow" horizontalCenter="0" verticalCenter="0" width="1280" height="720" visible="false">
+			<e:Image id="kImgDo" source="" x="444.48" y="507.52" anchorOffsetX="148.48" anchorOffsetY="51.52"/>
+			<e:Image id="kImgUpgrade" source="" x="853.52" y="507.51" anchorOffsetX="151.52" anchorOffsetY="51.51"/>
+			<e:Label text="It’s time to upgrade!" anchorOffsetX="0" anchorOffsetY="0" height="452.19" verticalAlign="middle" textAlign="center" size="93" bold="true" strokeColor="0xd18227" left="0" right="0" top="0"/>
+		</e:Group>
+	</e:Group>
+</e:Skin>

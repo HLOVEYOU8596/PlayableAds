@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameStartSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x000000"/>
+	<e:Group id="kGrpMain" width="1280" height="720" horizontalCenter="0" verticalCenter="0">
+		<e:Image id="kImgBg" source="start_bg_png" left="0" right="0" top="0" bottom="0" locked="true"/>
+		<e:Group id="kGrpTips1" y="88.42" horizontalCenter="0" anchorOffsetX="378.79" anchorOffsetY="42.42" locked="true">
+			<e:Image id="kImgTips1Bg" source="start_tips_bg1_png" horizontalCenter="0" verticalCenter="0"/>
+			<e:Image id="kImgTips1" source="start_choose_png" horizontalCenter="0" verticalCenter="0"/>
+		</e:Group>
+		<e:Group id="kGrpTips2" y="633.78" horizontalCenter="0" anchorOffsetX="551.52" anchorOffsetY="48.48" locked="true">
+			<e:Image id="kImgTips2Bg" source="start_tips_bg2_png" horizontalCenter="0" verticalCenter="0"/>
+			<e:Image id="kImgTips2" source="start_resturent_png" horizontalCenter="0" verticalCenter="0"/>
+		</e:Group>
+		<e:Group id="kGrpContent" anchorOffsetX="0" width="1074.91" horizontalCenter="0.5" height="350" verticalCenter="0">
+			<e:Image id="kImgBuildA" source="start_house1_png" x="184.85" y="168.67" anchorOffsetX="187.88" anchorOffsetY="166.67"/>
+			<e:Image id="kImgBuildB" source="start_house2_png" x="570.03" y="157.58" anchorOffsetX="203.03" anchorOffsetY="200"/>
+			<e:Image id="kImgBuildC" source="start_house3_png" x="929.11" y="181.76" anchorOffsetX="151.51" anchorOffsetY="175.76"/>
+			<e:Image id="kImgArrow" source="main_guide_arrow_png" x="1134" y="563"/>
+		</e:Group>
+		<e:Image id="kImgGirl" source="start_girl_png" right="0" bottom="0" touchEnabled="false"/>
+	</e:Group>
+</e:Skin>

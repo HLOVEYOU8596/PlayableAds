@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameEndSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+<e:Rect left="0" right="0" top="0" bottom="0" strokeAlpha="0.3" fillAlpha="0.3"></e:Rect>
+	<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0"/>
+	<e:Group id="kGrpMain" horizontalCenter="0" verticalCenter="0" width="1280" height="720">
+		<e:Group y="-2" width="1280" horizontalCenter="0" anchorOffsetY="0" height="721" visible="false">
+			<e:Image id="kImgLeft" source="end_float_png" anchorOffsetX="846.48" anchorOffsetY="362.79" x="846.48" height="721" y="362.79" width="849"/>
+			<e:Image id="kImgRight" source="end_float_png" rotation="180" anchorOffsetX="850" anchorOffsetY="358.18" height="721" y="364.82" x="426.97" width="849"/>
+		</e:Group>
+		<e:Group id="kGrpContent" width="833" height="609" horizontalCenter="-0.5" verticalCenter="0" scaleX="0.7" scaleY="0.7" anchorOffsetX="417.14" anchorOffsetY="311.43">
+			<e:Rect scaleX="1" scaleY="1" fillColor="0xffffff" ellipseWidth="60" ellipseHeight="60" left="0" right="0" top="0" bottom="0"/>
+			<e:Image id="kImgContent" width="813" height="589" horizontalCenter="0" verticalCenter="0" source=""/>
+		</e:Group>
+		<e:Group id="kGrpTopic" y="120" horizontalCenter="0.5" anchorOffsetX="252" anchorOffsetY="60">
+			<e:Image id="kImgTopic" source="main_reward_bg_png" x="0" y="0"/>
+			<e:Image id="kImgWelldown" source="end_welldone_png" x="97" y="8"/>
+		</e:Group>
+		<e:Image id="kImgRedesign" source="end_design_png" x="471" y="644" anchorOffsetX="146" anchorOffsetY="54" scaleX="0" scaleY="0"/>
+		<e:Image id="kImgShare" source="end_share_png" x="809.5" y="642" anchorOffsetX="146" anchorOffsetY="52" scaleX="0" scaleY="0"/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameMainSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*">
+	<w:Declarations>
+	</w:Declarations>
+	<e:Group id="kGrpMain" verticalCenter="0" horizontalCenter="0" width="1280" height="720" scrollEnabled="true">
+		<e:Image id="kImgBg" horizontalCenter="0" verticalCenter="0" source="main_bg_png"/>
+		<e:Group id="kGrpPeople2" x="-250" y="57" anchorOffsetY="0" height="252" scrollEnabled="true" width="350" locked="true">
+			<e:Group id="kGrpMenu2" y="124.3" x="228.48" anchorOffsetX="0.48" anchorOffsetY="84.3" scaleX="0" scaleY="0">
+				<e:Image id="kImgMenu2" source="main_alert_bg_png" x="0" y="21.28"/>
+				<e:Image id="kImgOrder2" source="main_coke3_png" horizontalCenter="7" verticalCenter="-20.5" scaleX="0.5" scaleY="0.5" anchorOffsetX="0" anchorOffsetY="0"/>
+				<e:Image id="kImgCoin2" source="main_icon_coin_png" horizontalCenter="6" verticalCenter="47" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="kGrpPeople1" x="1280" y="57" anchorOffsetY="0" height="252" scrollEnabled="true" anchorOffsetX="0" width="300" locked="true">
+			<e:Group id="kGrpMenu1" y="145.52" x="90.68" anchorOffsetX="89.33" anchorOffsetY="103.52" scaleX="0" scaleY="0">
+			<e:Image id="kImgMenu1" source="main_alert_bg_png" x="95.5" y="28.82" scaleX="-1"/>
+			<e:Image id="kImgOrder1" source="main_order_png" verticalCenter="-19" horizontalCenter="-57.5"/>
+				<e:Image id="kImgCoin1" source="main_icon_coin_png" horizontalCenter="-57.5" verticalCenter="51" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Image id="kImgCoke" x="842.97" y="408.67" anchorOffsetX="66.36" anchorOffsetY="66.18" scaleX="0.4" scaleY="0.4" source="main_coke3_png"/>
+		<e:Group id="kGrpFood" x="298.17" y="639.52" anchorOffsetX="102.35" anchorOffsetY="90.73" width="197.79" height="171.54" visible="false" locked="true">
+			<e:Image id="kImgDrumstick" x="40.43" y="42.48" width="121" height="117" source="main_drumstick0_png"/>
+			<e:Image id="kImgShu" source="main_food_fu_png" anchorOffsetX="90.73" anchorOffsetY="70.73" x="99.82" y="82.58" scaleX="0" scaleY="0"/>
+			<e:Image id="kImgFan" source="main_coke_png" anchorOffsetX="38.61" anchorOffsetY="35.03" x="95.05" y="25.33" scaleX="0" scaleY="0"/>
+		</e:Group>
+		<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0" locked="true">
+		</e:Group>
+		<e:Group id="kGrpEnd" left="0" right="0" top="0" bottom="0" locked="true" visible="false">
+			<e:Image id="kImgTopic" source="main_reward_bg_png" horizontalCenter="0" verticalCenter="-131"/>
+			<e:Label id="kLbTopic" text="Delicious" x="457.29" y="168" anchorOffsetX="0" width="367.94" anchorOffsetY="0" height="96.66" verticalAlign="middle" textAlign="center" size="65" bold="true" textColor="0x9b6937"/>
+			<e:Group id="kGrpClose" horizontalCenter="0" verticalCenter="0" width="1280" height="720" scrollEnabled="true" locked="true" visible="false">
+				<e:Image id="kImgEndBg" source="end_bg_png" x="0" y="0"/>
+				<e:Image id="kImgFood4" source="end_food4_png" x="1281.5" y="325.15"/>
+				<e:Image id="kImgFood2" source="end_food2_png" x="-295" y="290"/>
+				<e:Image id="kImgFood1" source="end_fodo1_png" x="1279.79" y="412.15"/>
+				<e:Image id="kImgFood3" source="end_food3_png" x="-260.8" y="403.15"/>
+				<e:Image id="kImgTips" source="end_tips_png" y="736" horizontalCenter="0"/>
+				<e:Image id="kImgContent" source="end_topic_png" y="277.88" x="639.09" anchorOffsetX="359.09" anchorOffsetY="87.88"/>
+				<e:Image id="kImgHand" source="main_guide_arrow_png" x="640" y="570" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Image id="kImgXu" x="203" y="550" source="main_xuxian_png" touchEnabled="false" visible="false"/>
+		<e:Label id="kLbTips" text="Tap to start cooking" x="112.33" y="365.41" bold="true" size="73" wordWrap="true" anchorOffsetX="0" width="430.88" textAlign="center" stroke="3" visible="false"/>
+		<e:Group id="kGrpGuide" left="0" right="0" top="0" bottom="0" locked="true"/>
+	</e:Group>
+</e:Skin>

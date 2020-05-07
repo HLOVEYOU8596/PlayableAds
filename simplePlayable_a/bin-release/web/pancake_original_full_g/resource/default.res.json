@@ -1,0 +1,570 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,aunt_tex_png,end_bg_png,end_fodo1_png,end_food2_png,end_food3_png,end_food4_png,end_tips_png,end_topic_png,grampa_tex_png,load_tex_png,main_alert_bg_png,main_arrow_png,main_bg_png,main_circle_png,main_coke_png,main_coke0_png,main_coke1_png,main_coke3_png,main_dai1_png,main_dai2_png,main_dai3_png,main_dai4_png,main_dai5_png,main_dai6_png,main_dai7_png,main_dai8_png,main_dai9_png,main_dai10_png,main_drumstick_1_png,main_drumstick_2_png,main_drumstick0_png,main_food_fu_png,main_guide_arrow_png,main_icon_coin_png,main_order_png,main_progress_bg_png,main_progress_png,main_reward_bg_png,main_right_png,main_xuxian_png,main_yanhua_1_png,main_yanhua_2_png,main_yanhua_3_png,mc_png,smoke_png,aunt_ske_json,aunt_tex_json,grampa_ske_json,grampa_tex_json,load_ske_json,load_tex_json,mc_json,smoke_json,lux_png,star_png,aunt_tex2_png,end_bg2_png,end_fodo12_png,end_food22_png,end_food32_png,end_food42_png,end_tips2_png,end_topic2_png,grampa_tex2_png,aunt_ske2_json,aunt_tex2_json,grampa_ske2_json,grampa_tex2_json,load_ske2_json,load_tex2_json,mc2_json,smoke2_json,load_tex2_png,lux2_png,main_alert_bg2_png,main_arrow2_png,main_bg2_png,main_circle2_png,main_coke2_png,main_coke02_png,main_coke12_png,main_coke32_png,main_dai12_png,main_dai102_png,main_dai22_png,main_dai32_png,main_dai42_png,main_dai52_png,main_dai62_png,main_dai72_png,main_dai82_png,main_dai92_png,main_drumstick02_png,main_drumstick_12_png,main_drumstick_22_png,main_food_fu2_png,main_guide_arrow2_png,main_icon_coin2_png,main_order2_png,main_progress2_png,main_progress_bg2_png,main_reward_bg2_png,main_right2_png,main_xuxian2_png,main_yanhua_12_png,main_yanhua_22_png,main_yanhua_32_png,mc2_png,smoke2_png,star2_png,description2_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "aunt_tex_png",
+			"type": "image",
+			"url": "assets/aunt_tex.png"
+		},
+		{
+			"name": "end_bg_png",
+			"type": "image",
+			"url": "assets/end_bg.png"
+		},
+		{
+			"name": "end_fodo1_png",
+			"type": "image",
+			"url": "assets/end_fodo1.png"
+		},
+		{
+			"name": "end_food2_png",
+			"type": "image",
+			"url": "assets/end_food2.png"
+		},
+		{
+			"name": "end_food3_png",
+			"type": "image",
+			"url": "assets/end_food3.png"
+		},
+		{
+			"name": "end_food4_png",
+			"type": "image",
+			"url": "assets/end_food4.png"
+		},
+		{
+			"name": "end_tips_png",
+			"type": "image",
+			"url": "assets/end_tips.png"
+		},
+		{
+			"name": "end_topic_png",
+			"type": "image",
+			"url": "assets/end_topic.png"
+		},
+		{
+			"name": "grampa_tex_png",
+			"type": "image",
+			"url": "assets/grampa_tex.png"
+		},
+		{
+			"name": "aunt_tex_json",
+			"type": "json",
+			"url": "assets/json/aunt_tex.json"
+		},
+		{
+			"name": "load_tex_json",
+			"type": "json",
+			"url": "assets/json/load_tex.json"
+		},
+		{
+			"name": "grampa_ske_json",
+			"type": "json",
+			"url": "assets/json/grampa_ske.json"
+		},
+		{
+			"name": "mc_json",
+			"type": "json",
+			"url": "assets/json/mc.json"
+		},
+		{
+			"name": "aunt_ske_json",
+			"type": "json",
+			"url": "assets/json/aunt_ske.json"
+		},
+		{
+			"name": "smoke_json",
+			"type": "json",
+			"url": "assets/json/smoke.json"
+		},
+		{
+			"name": "load_ske_json",
+			"type": "json",
+			"url": "assets/json/load_ske.json"
+		},
+		{
+			"name": "grampa_tex_json",
+			"type": "json",
+			"url": "assets/json/grampa_tex.json"
+		},
+		{
+			"name": "load_tex_png",
+			"type": "image",
+			"url": "assets/load_tex.png"
+		},
+		{
+			"name": "main_alert_bg_png",
+			"type": "image",
+			"url": "assets/main_alert_bg.png"
+		},
+		{
+			"name": "main_arrow_png",
+			"type": "image",
+			"url": "assets/main_arrow.png"
+		},
+		{
+			"name": "main_bg_png",
+			"type": "image",
+			"url": "assets/main_bg.png"
+		},
+		{
+			"name": "main_circle_png",
+			"type": "image",
+			"url": "assets/main_circle.png"
+		},
+		{
+			"name": "main_coke_png",
+			"type": "image",
+			"url": "assets/main_coke.png"
+		},
+		{
+			"name": "main_coke0_png",
+			"type": "image",
+			"url": "assets/main_coke0.png"
+		},
+		{
+			"name": "main_coke1_png",
+			"type": "image",
+			"url": "assets/main_coke1.png"
+		},
+		{
+			"name": "main_coke3_png",
+			"type": "image",
+			"url": "assets/main_coke3.png"
+		},
+		{
+			"name": "main_dai1_png",
+			"type": "image",
+			"url": "assets/main_dai1.png"
+		},
+		{
+			"name": "main_dai2_png",
+			"type": "image",
+			"url": "assets/main_dai2.png"
+		},
+		{
+			"name": "main_dai3_png",
+			"type": "image",
+			"url": "assets/main_dai3.png"
+		},
+		{
+			"name": "main_dai4_png",
+			"type": "image",
+			"url": "assets/main_dai4.png"
+		},
+		{
+			"name": "main_dai5_png",
+			"type": "image",
+			"url": "assets/main_dai5.png"
+		},
+		{
+			"name": "main_dai6_png",
+			"type": "image",
+			"url": "assets/main_dai6.png"
+		},
+		{
+			"name": "main_dai7_png",
+			"type": "image",
+			"url": "assets/main_dai7.png"
+		},
+		{
+			"name": "main_dai8_png",
+			"type": "image",
+			"url": "assets/main_dai8.png"
+		},
+		{
+			"name": "main_dai9_png",
+			"type": "image",
+			"url": "assets/main_dai9.png"
+		},
+		{
+			"name": "main_dai10_png",
+			"type": "image",
+			"url": "assets/main_dai10.png"
+		},
+		{
+			"name": "main_drumstick_1_png",
+			"type": "image",
+			"url": "assets/main_drumstick_1.png"
+		},
+		{
+			"name": "main_drumstick_2_png",
+			"type": "image",
+			"url": "assets/main_drumstick_2.png"
+		},
+		{
+			"name": "main_drumstick0_png",
+			"type": "image",
+			"url": "assets/main_drumstick0.png"
+		},
+		{
+			"name": "main_food_fu_png",
+			"type": "image",
+			"url": "assets/main_food_fu.png"
+		},
+		{
+			"name": "main_guide_arrow_png",
+			"type": "image",
+			"url": "assets/main_guide_arrow.png"
+		},
+		{
+			"name": "main_icon_coin_png",
+			"type": "image",
+			"url": "assets/main_icon_coin.png"
+		},
+		{
+			"name": "main_order_png",
+			"type": "image",
+			"url": "assets/main_order.png"
+		},
+		{
+			"name": "main_progress_bg_png",
+			"type": "image",
+			"url": "assets/main_progress_bg.png"
+		},
+		{
+			"name": "main_progress_png",
+			"type": "image",
+			"url": "assets/main_progress.png"
+		},
+		{
+			"name": "main_reward_bg_png",
+			"type": "image",
+			"url": "assets/main_reward_bg.png"
+		},
+		{
+			"name": "main_right_png",
+			"type": "image",
+			"url": "assets/main_right.png"
+		},
+		{
+			"name": "main_xuxian_png",
+			"type": "image",
+			"url": "assets/main_xuxian.png"
+		},
+		{
+			"name": "main_yanhua_1_png",
+			"type": "image",
+			"url": "assets/main_yanhua_1.png"
+		},
+		{
+			"name": "main_yanhua_2_png",
+			"type": "image",
+			"url": "assets/main_yanhua_2.png"
+		},
+		{
+			"name": "main_yanhua_3_png",
+			"type": "image",
+			"url": "assets/main_yanhua_3.png"
+		},
+		{
+			"name": "mc_png",
+			"type": "image",
+			"url": "assets/mc.png"
+		},
+		{
+			"name": "smoke_png",
+			"type": "image",
+			"url": "assets/smoke.png"
+		},
+		{
+			"name": "lux_png",
+			"type": "image",
+			"url": "assets/lux.png"
+		},
+		{
+			"name": "star_png",
+			"type": "image",
+			"url": "assets/star.png"
+		},
+		{
+			"name": "aunt_tex2_png",
+			"type": "image",
+			"url": "assets/aunt_tex.png"
+		},
+		{
+			"name": "end_bg2_png",
+			"type": "image",
+			"url": "assets/end_bg.png"
+		},
+		{
+			"name": "end_fodo12_png",
+			"type": "image",
+			"url": "assets/end_fodo1.png"
+		},
+		{
+			"name": "end_food22_png",
+			"type": "image",
+			"url": "assets/end_food2.png"
+		},
+		{
+			"name": "end_food32_png",
+			"type": "image",
+			"url": "assets/end_food3.png"
+		},
+		{
+			"name": "end_food42_png",
+			"type": "image",
+			"url": "assets/end_food4.png"
+		},
+		{
+			"name": "end_tips2_png",
+			"type": "image",
+			"url": "assets/end_tips.png"
+		},
+		{
+			"name": "end_topic2_png",
+			"type": "image",
+			"url": "assets/end_topic.png"
+		},
+		{
+			"name": "grampa_tex2_png",
+			"type": "image",
+			"url": "assets/grampa_tex.png"
+		},
+		{
+			"name": "aunt_ske2_json",
+			"type": "json",
+			"url": "assets/json/aunt_ske.json"
+		},
+		{
+			"name": "aunt_tex2_json",
+			"type": "json",
+			"url": "assets/json/aunt_tex.json"
+		},
+		{
+			"name": "grampa_ske2_json",
+			"type": "json",
+			"url": "assets/json/grampa_ske.json"
+		},
+		{
+			"name": "grampa_tex2_json",
+			"type": "json",
+			"url": "assets/json/grampa_tex.json"
+		},
+		{
+			"name": "load_ske2_json",
+			"type": "json",
+			"url": "assets/json/load_ske.json"
+		},
+		{
+			"name": "load_tex2_json",
+			"type": "json",
+			"url": "assets/json/load_tex.json"
+		},
+		{
+			"name": "mc2_json",
+			"type": "json",
+			"url": "assets/json/mc.json"
+		},
+		{
+			"name": "smoke2_json",
+			"type": "json",
+			"url": "assets/json/smoke.json"
+		},
+		{
+			"name": "load_tex2_png",
+			"type": "image",
+			"url": "assets/load_tex.png"
+		},
+		{
+			"name": "lux2_png",
+			"type": "image",
+			"url": "assets/lux.png"
+		},
+		{
+			"name": "main_alert_bg2_png",
+			"type": "image",
+			"url": "assets/main_alert_bg.png"
+		},
+		{
+			"name": "main_arrow2_png",
+			"type": "image",
+			"url": "assets/main_arrow.png"
+		},
+		{
+			"name": "main_bg2_png",
+			"type": "image",
+			"url": "assets/main_bg.png"
+		},
+		{
+			"name": "main_circle2_png",
+			"type": "image",
+			"url": "assets/main_circle.png"
+		},
+		{
+			"name": "main_coke2_png",
+			"type": "image",
+			"url": "assets/main_coke.png"
+		},
+		{
+			"name": "main_coke02_png",
+			"type": "image",
+			"url": "assets/main_coke0.png"
+		},
+		{
+			"name": "main_coke12_png",
+			"type": "image",
+			"url": "assets/main_coke1.png"
+		},
+		{
+			"name": "main_coke32_png",
+			"type": "image",
+			"url": "assets/main_coke3.png"
+		},
+		{
+			"name": "main_dai12_png",
+			"type": "image",
+			"url": "assets/main_dai1.png"
+		},
+		{
+			"name": "main_dai102_png",
+			"type": "image",
+			"url": "assets/main_dai10.png"
+		},
+		{
+			"name": "main_dai22_png",
+			"type": "image",
+			"url": "assets/main_dai2.png"
+		},
+		{
+			"name": "main_dai32_png",
+			"type": "image",
+			"url": "assets/main_dai3.png"
+		},
+		{
+			"name": "main_dai42_png",
+			"type": "image",
+			"url": "assets/main_dai4.png"
+		},
+		{
+			"name": "main_dai52_png",
+			"type": "image",
+			"url": "assets/main_dai5.png"
+		},
+		{
+			"name": "main_dai62_png",
+			"type": "image",
+			"url": "assets/main_dai6.png"
+		},
+		{
+			"name": "main_dai72_png",
+			"type": "image",
+			"url": "assets/main_dai7.png"
+		},
+		{
+			"name": "main_dai82_png",
+			"type": "image",
+			"url": "assets/main_dai8.png"
+		},
+		{
+			"name": "main_dai92_png",
+			"type": "image",
+			"url": "assets/main_dai9.png"
+		},
+		{
+			"name": "main_drumstick02_png",
+			"type": "image",
+			"url": "assets/main_drumstick0.png"
+		},
+		{
+			"name": "main_drumstick_12_png",
+			"type": "image",
+			"url": "assets/main_drumstick_1.png"
+		},
+		{
+			"name": "main_drumstick_22_png",
+			"type": "image",
+			"url": "assets/main_drumstick_2.png"
+		},
+		{
+			"name": "main_food_fu2_png",
+			"type": "image",
+			"url": "assets/main_food_fu.png"
+		},
+		{
+			"name": "main_guide_arrow2_png",
+			"type": "image",
+			"url": "assets/main_guide_arrow.png"
+		},
+		{
+			"name": "main_icon_coin2_png",
+			"type": "image",
+			"url": "assets/main_icon_coin.png"
+		},
+		{
+			"name": "main_order2_png",
+			"type": "image",
+			"url": "assets/main_order.png"
+		},
+		{
+			"name": "main_progress2_png",
+			"type": "image",
+			"url": "assets/main_progress.png"
+		},
+		{
+			"name": "main_progress_bg2_png",
+			"type": "image",
+			"url": "assets/main_progress_bg.png"
+		},
+		{
+			"name": "main_reward_bg2_png",
+			"type": "image",
+			"url": "assets/main_reward_bg.png"
+		},
+		{
+			"name": "main_right2_png",
+			"type": "image",
+			"url": "assets/main_right.png"
+		},
+		{
+			"name": "main_xuxian2_png",
+			"type": "image",
+			"url": "assets/main_xuxian.png"
+		},
+		{
+			"name": "main_yanhua_12_png",
+			"type": "image",
+			"url": "assets/main_yanhua_1.png"
+		},
+		{
+			"name": "main_yanhua_22_png",
+			"type": "image",
+			"url": "assets/main_yanhua_2.png"
+		},
+		{
+			"name": "main_yanhua_32_png",
+			"type": "image",
+			"url": "assets/main_yanhua_3.png"
+		},
+		{
+			"name": "mc2_png",
+			"type": "image",
+			"url": "assets/mc.png"
+		},
+		{
+			"name": "smoke2_png",
+			"type": "image",
+			"url": "assets/smoke.png"
+		},
+		{
+			"name": "star2_png",
+			"type": "image",
+			"url": "assets/star.png"
+		},
+		{
+			"name": "description2_json",
+			"type": "json",
+			"url": "config/description.json"
+		}
+	]
+}

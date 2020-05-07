@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameMainSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Rect left="0" right="0" top="0" bottom="0" visible="false" />
+	<e:Group id="kGrpMain" horizontalCenter="0" verticalCenter="0" width="1280" height="720" scrollEnabled="true">
+		<e:Image id="kImgBg1" source="main_bg1_png" top="0" horizontalCenter="0" />
+		<e:Group id="kGrpPeople1" x="-200" y="55" locked="true">
+			<e:Group id="kGrpMenu1" x="158" y="131" anchorOffsetX="2" anchorOffsetY="102" scaleX="0" scaleY="0">
+				<e:Image id="kImgMenu1" source="main_menu_png" x="0" y="0" />
+				<e:Image source="main_order_png" y="10" horizontalCenter="0.5" id="kImgOrder1"/>
+				<e:Image source="main_order_png" y="102" horizontalCenter="0.5" id="kImgOrder2"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="kGrpPeople2" x="-200" y="55" locked="true">
+			<e:Group id="kGrpMenu2" x="188" y="130" anchorOffsetX="-2" anchorOffsetY="102" scaleX="0" scaleY="0">
+				<e:Image id="kImgMenu2" source="main_menu_png" x="0" y="0" />
+				<e:Image source="main_order_png" y="18" horizontalCenter="0.5" id="kImgOrder3"/>
+				<e:Image source="main_order_png" y="106" horizontalCenter="0.5" id="kImgOrder4"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="kGrpPeople3" x="-200" y="55" locked="true">
+			<e:Group id="kGrpMenu3" x="146" y="132" anchorOffsetX="-2" anchorOffsetY="104" scaleX="0" scaleY="0">
+				<e:Image id="kImgMenu3" source="main_menu_png" x="0" y="0" />
+				<e:Image source="main_order_png" y="14" horizontalCenter="0.5" id="kImgOrder5"/>
+				<e:Image source="main_order_png" y="106" horizontalCenter="0.5" id="kImgOrder6"/>
+			</e:Group>
+		</e:Group>
+		<e:Image id="kImgBg2" source="main_bg2_png" bottom="0" horizontalCenter="0"/>
+		<ns1:Drumstick id="kDrumstick3" width="272" height="256" x="893" y="378" anchorOffsetX="136" anchorOffsetY="184" currentState="state1" skinName="DrumstickSkin" scaleX="0.5" scaleY="0.5"/>
+		<ns1:Drumstick id="kDrumstick6" width="272" height="256" x="1024.94" y="373.94" anchorOffsetX="136" anchorOffsetY="184" skinName="DrumstickSkin" scaleX="0.5" scaleY="0.5"/>
+		<ns1:Drumstick id="kDrumstick2" width="272" height="256" x="900" y="460" anchorOffsetX="136" anchorOffsetY="184" currentState="state1" scaleX="0.6" scaleY="0.6" skinName="DrumstickSkin"/>
+		<ns1:Drumstick id="kDrumstick5" width="272" height="256" x="1059" y="453" anchorOffsetX="136" anchorOffsetY="184" currentState="state1" scaleX="0.6" scaleY="0.6" skinName="DrumstickSkin"/>
+		<ns1:Drumstick id="kDrumstick4" width="272" height="256" x="1107" y="558" anchorOffsetX="136" anchorOffsetY="184" currentState="state1" skinName="DrumstickSkin" scaleX="0.7" scaleY="0.7"/>
+		<ns1:Drumstick id="kDrumstick1" width="272" height="256" x="917" y="567" anchorOffsetX="136" anchorOffsetY="184" currentState="state1" skinName="DrumstickSkin" scaleX="0.7" scaleY="0.7"/>
+		<e:Image id="kImgDrumstick1" source="main_food0_png" x="476" y="547" anchorOffsetX="42" anchorOffsetY="30" scaleX="1.1" scaleY="1.1"/>
+		<e:Image id="kImgDrumstick2" x="318" y="537" anchorOffsetX="38" anchorOffsetY="28" scaleX="1.1" scaleY="1.1" source="main_food0_png"/>
+		<e:Image id="kImgDrumstick3" source="main_food0_png" x="508.5" y="461.8" anchorOffsetX="40" anchorOffsetY="32"/>
+		<e:Image id="kImgDrumstick4" source="main_food0_png" x="362.5" y="455.8" anchorOffsetX="36" anchorOffsetY="30"/>
+		<e:Image id="kImgDrumstick5" source="main_food0_png" x="402.5" y="375.8" anchorOffsetX="36.44" anchorOffsetY="33.11" scaleX="0.9" scaleY="0.9"/>
+		<e:Image id="kImgDrumstick6" source="main_food0_png" x="542.5" y="379.8" anchorOffsetX="38.67" anchorOffsetY="28.67" scaleX="0.9" scaleY="0.9"/>
+		<e:Group id="kGrpCoke" left="0" right="0" top="0" bottom="0">
+			<e:Image id="kImgCoke1" source="main_coke1_png" x="209" y="282.67"/>
+			<e:Image id="kImgCoke2" x="107" y="402.02" source="main_coke2_png"/>
+			<e:Group id="kGrpStream" left="0" right="0" top="0" bottom="0"/>
+			<e:Image id="kImgCc2" source="main_coke1_png" x="107" y="402.02"/>
+			<e:Image id="kImgCc1" source="main_coke2_png" x="209" y="282.67"/>
+		</e:Group>
+		<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0" locked="true">
+		</e:Group>
+		<e:Group id="kGrpEnd" x="636" y="363" anchorOffsetX="324" anchorOffsetY="332" scaleX="0" scaleY="0" locked="true">
+			<e:Image id="kImgLux" source="main_lux_png" x="324" y="328" anchorOffsetX="324" anchorOffsetY="328"/>
+			<e:Image id="kImgBox" source="loading_c_png" x="316" y="384.5" anchorOffsetX="156" anchorOffsetY="192"/>
+		</e:Group>
+		<e:Group id="kGrpGuide" left="0" right="0" top="0" bottom="0" locked="true"/>
+	</e:Group>
+</e:Skin>

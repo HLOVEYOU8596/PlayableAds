@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainViewSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x000000"/>
+	<e:Group id="kGrpMain" height="720" width="1280" verticalCenter="0" horizontalCenter="0" scrollEnabled="true">
+		<e:Group id="kGrpBg" left="0" right="0" top="0" bottom="0">
+			<e:Image id="kImgBg1" source="main_bg1_png" x="0" y="0"/>
+			<e:Group id="kGrpPeople1" x="313" y="80">
+				<e:Image x="0" y="0" source="main_people2_png" id="kImgPeople1"/>
+				<e:Group id="kGrpMenu1" x="196" y="126.36" anchorOffsetX="-2" anchorOffsetY="126.67" scaleX="1" scaleY="1">
+					<e:Image id="kImgMenu1" source="main_menu_png" x="0" y="0"/>
+					<e:Image id="kImgOrder3" source="main_menu2_png" horizontalCenter="0" verticalCenter="0"/>
+				</e:Group>
+			</e:Group>
+			<e:Group id="kGrpPeople2" x="697" y="80">
+				<e:Image source="main_people1_png" x="0" y="0" id="kImgPeople2"/>
+				<e:Group id="kGrpMenu2" x="190.67" y="130.07" anchorOffsetX="0.67" anchorOffsetY="128.67" scaleX="1" scaleY="1">
+					<e:Image id="kImgMenu2" source="main_menu_png" x="0" y="0"/>
+					<e:Image id="kImgOrder1" source="main_cake_png" scaleX="0.7" scaleY="0.7" anchorOffsetX="61.33" anchorOffsetY="84" horizontalCenter="0" top="14"/>
+					<e:Image id="kImgNum2" x="77.36" y="79.35" source="main_x3_png"/>
+					<e:Image id="kImgOrder2" source="main_menu1_png" x="55" y="141.35"/>
+					<e:Image id="kImgNum1" source="main_x3_png" x="79.38" y="168.35"/>
+				</e:Group>
+			</e:Group>
+			<e:Image id="kImgbg2" source="main_bg2_png" x="0" bottom="0"/>
+		</e:Group>
+		<e:Image id="kImgShadow1" source="main_shadow1_png" x="92.5" y="394" visible="false"/>
+		<e:Image id="kImgShadow2" source="main_shadow2_png" x="426.5" y="390" visible="false"/>
+		<e:Image id="kImgShadow3" source="main_shadow3_png" x="894" y="394" visible="false"/>
+		<e:Group id="kGrpMenu" left="0" right="0" top="0" bottom="0" locked="true">
+			<e:Image id="kImgRabbit" source="main_rabbit_png" x="200" y="346" anchorOffsetX="66" anchorOffsetY="78"/>
+			<e:Image id="kImgCoke1" source="main_coke1_png" x="296" y="372" anchorOffsetX="30" anchorOffsetY="52"/>
+			<e:Image id="kImgCoke2" source="main_coke2_png" x="354" y="372" anchorOffsetX="28" anchorOffsetY="48"/>
+			<e:Image id="kImgCoke3" source="main_coke2_png" x="414" y="371.5" anchorOffsetX="28" anchorOffsetY="46"/>
+			<e:Image id="kImgRabbit1" source="main_rabbit1_png" x="169.5" y="586" anchorOffsetX="52" anchorOffsetY="38"/>
+			<e:Image id="kImgRabbit2" source="main_rabbit2_png" x="194" y="526" anchorOffsetX="48" anchorOffsetY="36"/>
+			<e:Image id="kImgRabbit3" source="main_rabbit3_png" x="228" y="472" anchorOffsetX="48" anchorOffsetY="32"/>
+			<e:Image id="kImgBeef3" source="main_beef3_png" x="362" y="466" anchorOffsetX="58" anchorOffsetY="44"/>
+			<e:Image id="kImgBeef2" source="main_beef2_png" x="334" y="536" anchorOffsetX="68" anchorOffsetY="44"/>
+			<e:Image id="kImgBeef1" source="main_beef1_png" x="300" y="594" anchorOffsetX="68" anchorOffsetY="54"/>
+			<e:Image id="kImgEgg" source="main_egg_png" x="674" y="428" anchorOffsetX="90" anchorOffsetY="104"/>
+			<e:Image id="kImgEgg1" source="main_egg1_png" x="789" y="416" anchorOffsetX="58" anchorOffsetY="56"/>
+			<e:Image id="kImgEgg2" source="main_egg2_png" x="560" y="420" anchorOffsetX="60" anchorOffsetY="56"/>
+			<e:Image id="kImgEgg4" source="main_egg5_png" x="506" y="510" anchorOffsetX="62" anchorOffsetY="60"/>
+			<e:Image id="kImgEgg3" source="main_egg3_png" x="844" y="508" anchorOffsetX="64" anchorOffsetY="58"/>
+			<e:Image id="kImgChicken" source="main_segg_png" x="480" y="616" anchorOffsetX="72" anchorOffsetY="64"/>
+			<e:Image id="kImgMachie" source="main_machie_png" x="674" y="618" anchorOffsetX="106" anchorOffsetY="110"/>
+			<e:Image id="kImgBear" source="main_bear_png" x="869" y="615" anchorOffsetX="89" anchorOffsetY="51"/>
+			<e:Image id="kImgCake3" source="main_cake_png" x="956" y="407.99" anchorOffsetX="58.67" anchorOffsetY="89.33"/>
+			<e:Image id="kImgCake2" source="main_cake_png" x="975.31" y="479.2" anchorOffsetX="61.33" anchorOffsetY="88"/>
+			<e:Image id="kImgCake1" source="main_cake_png" x="994.69" y="551.63" anchorOffsetX="58.67" anchorOffsetY="88"/>
+			<e:Image id="kImgTea3" source="main_tea3_png" x="1060.02" y="406.33" anchorOffsetX="48" anchorOffsetY="53.33"/>
+			<e:Image id="kImgTea2" source="main_tea2_png" x="1085.38" y="477.35" anchorOffsetX="50.67" anchorOffsetY="56"/>
+			<e:Image id="kImgTea1" source="main_tea1_png" x="1111.03" y="567.65" anchorOffsetX="54.67" anchorOffsetY="62.67"/>
+			<e:Image id="kImgA4" source="main_menu1_png" x="824" y="577" anchorOffsetX="23" anchorOffsetY="38"/>
+			<e:Image id="kImgA5" source="main_menu1_png" x="874" y="579" anchorOffsetX="26" anchorOffsetY="40"/>
+			<e:Image id="kImgA6" source="main_menu1_png" x="915" y="581" anchorOffsetX="24" anchorOffsetY="41"/>
+			<e:Image id="kImgA3" source="main_menu1_png" x="833" y="602" anchorOffsetX="25" anchorOffsetY="39"/>
+			<e:Image id="kImgA2" source="main_menu1_png" x="881" y="603" anchorOffsetX="26" anchorOffsetY="38"/>
+			<e:Image id="kImgA1" source="main_menu1_png" x="921" y="603" anchorOffsetX="26" anchorOffsetY="39"/>
+		</e:Group>
+		<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0"/>
+		<e:Group id="kGrpSnow" left="0" right="0" top="0" bottom="0" locked="true"/>
+		<e:Rect id="kImgRect" left="0" right="0" top="0" bottom="0" fillAlpha="0.3" visible="false"/>
+		<e:Group id="kGrpChoice" x="662" y="362" anchorOffsetX="362" anchorOffsetY="198" scaleX="0" scaleY="0" locked="true">
+			<e:Image id="kImgChoice1" source="main_a1_png" x="140" y="198" anchorOffsetX="140" anchorOffsetY="190"/>
+			<e:Image id="kImgChoice2" source="main_a2_png" x="564" y="202" anchorOffsetX="152" anchorOffsetY="202"/>
+			<e:Image id="kImgHand" source="main_guide_arrow_png" x="178" y="230" anchorOffsetX="52" anchorOffsetY="56" visible="false"/>
+		</e:Group>
+		<e:Image id="kImgSwipe" source="main_swipe_png" y="486" anchorOffsetX="242" anchorOffsetY="54" horizontalCenter="0" visible="false"/>
+		<e:Group id="kGrpGuide" left="0" right="0" top="0" bottom="0" locked="true"/>
+	</e:Group>
+</e:Skin>

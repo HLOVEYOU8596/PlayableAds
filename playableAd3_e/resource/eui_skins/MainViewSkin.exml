@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainViewSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x000000"/>
+	<e:Group id="kGrpMain" height="720" width="1280" verticalCenter="0" horizontalCenter="0" scrollEnabled="true">
+		<e:Group id="kGrpBg" left="0" right="0" top="0" bottom="0">
+			<e:Image id="kImgBg1" source="main_bg1_png" x="0" y="0"/>
+			<e:Group id="kGrpPeople1" x="-365" y="30" locked="true">
+				<e:Image x="0" y="0" source="main_people2_png" id="kImgPeople1"/>
+				<e:Group id="kGrpMenu1" x="200" y="117" anchorOffsetX="2" anchorOffsetY="88" visible="false">
+					<e:Image id="kImgMenu1" source="main_menu_png" x="0" y="0"/>
+					<e:Image id="kImgNum1" source="main_x3_png" x="93" y="93.5"/>
+				</e:Group>
+			</e:Group>
+			<e:Group id="kGrpPeople2" x="-357" y="30" locked="true">
+				<e:Image source="main_people1_png" x="0" y="0" id="kImgPeople2"/>
+				<e:Group id="kGrpMenu2" x="192" y="110" anchorOffsetX="2" anchorOffsetY="82" visible="false">
+					<e:Image id="kImgMenu2" source="main_menu_png" x="0" y="0"/>
+					<e:Image id="kImgNum2" source="main_x6_png" x="88" y="86"/>
+				</e:Group>
+			</e:Group>
+			<e:Image id="kImgbg2" source="main_bg2_png" x="0" bottom="0"/>
+			<e:Image id="kImgD1" source="main_cake5_png" x="176" y="344" anchorOffsetX="66" anchorOffsetY="54"/>
+			<e:Image id="kImgD2" source="main_cake5_png" x="340" y="348" anchorOffsetX="66" anchorOffsetY="56"/>
+			<e:Image id="kImgD3" source="main_cake5_png" x="101" y="466" anchorOffsetX="66" anchorOffsetY="58"/>
+			<e:Image id="kImgD4" source="main_cake5_png" x="282" y="470" anchorOffsetX="64" anchorOffsetY="58"/>
+		</e:Group>
+		<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0" locked="true"/>
+		<e:Group id="kGrpHam" left="0" right="0" top="0" bottom="0" locked="true">
+		</e:Group>
+		<e:Group id="kGrpSnow" left="0" right="0" top="0" bottom="0" locked="true"/>
+		<e:Image id="kImgSwipe" source="main_swipe_png" y="486" anchorOffsetX="242" anchorOffsetY="54" horizontalCenter="0" visible="false"/>
+		<e:Group id="kGrpGuide" left="0" right="0" top="0" bottom="0" locked="true"/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HamburgSkin" width="200" height="161" currentState="state1" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  states="state1" >
+	<e:Group id="kGrpMaster" anchorOffsetX="103" anchorOffsetY="113" left="0" right="0" top="0" bottom="0">
+		<e:Image id="kImgHam1" source="main_ham1_png" anchorOffsetX="73" anchorOffsetY="47" horizontalCenter="0.5" bottom="0"/>
+		<e:Image id="kImgHam2" source="main_ham2_png" y="100" anchorOffsetX="72" anchorOffsetY="40" horizontalCenter="0"/>
+		<e:Image id="kImgHam3" source="main_ham3_png" y="82" anchorOffsetX="65" anchorOffsetY="47" horizontalCenter="0" visible.state1="false"/>
+		<e:Image id="kImgHam4" source="main_ham4_png" y="68" anchorOffsetX="66" anchorOffsetY="40" horizontalCenter="0" visible.state1="false"/>
+		<e:Image id="kImgHam5" source="main_ham5_png" y="1" horizontalCenter="0" visible.state1="false"/>
+	</e:Group>
+</e:Skin>

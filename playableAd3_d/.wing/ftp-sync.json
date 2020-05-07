@@ -1,0 +1,23 @@
+[
+    {
+        "name": "server",
+        "host": "res.starcdn.cn",
+        "user": "ubuntu",
+        "password": "password",
+        "port": 21,
+        "protocol": "ftp",
+        "remotePath": "playableAd3/",
+        "passive": false,
+        "debug": false,
+        "privateKeyPath": null,
+        "ignoreDir": [
+            ".out/",
+            ".git/"
+        ],
+        "ignoreFileSuffix": [
+            "diff"
+        ],
+        "diffFile": "ftpdiff-1576478454579.diff",
+        "usediffFile": true
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HamburgSkin" width="200" height="229" currentState="state1" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" states="state1" >
+	<e:Group id="kGrpMaster" anchorOffsetX="103" anchorOffsetY="113" left="0" right="0" top="0" bottom="0" left.state1="0" right.state1="0" top.state1="0" bottom.state1="0" anchorOffsetX.state1="99" anchorOffsetY.state1="113">
+		<e:Image id="kImgHam1" source="main_ham1_png" bottom="0" anchorOffsetX="81" anchorOffsetY="59" horizontalCenter.state1="0" horizontalCenter="0"/>
+		<e:Image id="kImgHam2" source="main_ham2_png" y="140" anchorOffsetX="85" anchorOffsetY="61" y.state1="145" horizontalCenter.state1="0" horizontalCenter="0"/>
+		<e:Image id="kImgHam3" source="main_ham3_png" y="124" anchorOffsetX="99" anchorOffsetY="73" y.state1="128" visible.state1="false" horizontalCenter="0"/>
+		<e:Image id="kImgHam4" source="main_ham4_png" y="102" anchorOffsetX="101" anchorOffsetY="67" horizontalCenter.state1="0.5" y.state1="106" visible.state1="false" horizontalCenter="0"/>
+		<e:Image id="kImgHam5" source="main_ham5_png" y="2" horizontalCenter="0" horizontalCenter.state1="0" y.state1="74" anchorOffsetX.state1="88" anchorOffsetY.state1="64" visible.state1="false"/>
+	</e:Group>
+</e:Skin>

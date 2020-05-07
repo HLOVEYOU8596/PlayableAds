@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameEndSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x000000"/>
+	<e:Group id="kGrpMain" width="1280" height="720" horizontalCenter="0" verticalCenter="0" locked="true">
+		<e:Image id="kImgBg" left="0" right="0" top="0" bottom="0" source="end_bg_png"/>
+		<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0">
+		</e:Group>
+		<e:Group id="kGrpAlert" x="959.73" y="364.94" anchorOffsetX="272.73" anchorOffsetY="293.94">
+			<e:Image id="kImgAlertBg" source="end_alert_png" x="0" y="0"/>
+			<e:Image id="kImgRetry" source="end_retry_png" y="546.45" horizontalCenter="0" anchorOffsetX="130.3" anchorOffsetY="33.33"/>
+			<e:Group id="kGrpStart" y="327.14" anchorOffsetX="0" width="307.58" horizontalCenter="0">
+				<e:Image id="kImgStar1" x="48.48" y="92.95" anchorOffsetX="47" anchorOffsetY="47" source="end_starw_png" rotation="-24"/>
+				<e:Image id="kImgStar2" y="57.58" rotation="-12" horizontalCenter="1.210000000000008" anchorOffsetX="47.54" anchorOffsetY="48.76" source="end_starw_png"/>
+				<e:Image id="kImgStar3" source="end_starw_png" x="211.58" y="48.5"/>
+			</e:Group>
+		</e:Group>
+	</e:Group>
+</e:Skin>

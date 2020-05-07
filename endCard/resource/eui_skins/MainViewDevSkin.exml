@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainViewDevSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x000000"/>
+	<e:Group id="kGrpMain" height="720" width="1280" verticalCenter="0" horizontalCenter="0" scrollEnabled="true">
+		<e:Group id="kGrpBottom" x="0" y="0">
+			<e:Image id="kImgContent" source="" x="0" y="0"/>
+			<e:Group id="kGrpSnow" left="0" right="0" top="0" bottom="0" locked="true"/>
+			<e:Image id="kBtnPlay" source="" x="640" y="579" anchorOffsetX="154" anchorOffsetY="50" scaleX="0" scaleY="0"/>
+		</e:Group>
+		<e:Group id="kGrpTop" x="0" y="0">
+			<e:Image id="kImgBg1" source="" x="0" y="0"/>
+			<e:Image id="kImgPeople" source="" x="286" y="70"/>
+			<e:Image id="kImgTips" source="" y="670" horizontalCenter="0" anchorOffsetX="252" anchorOffsetY="22"/>
+			<e:Group id="kGrpSwipe" x="618" y="559" anchorOffsetX="0" width="148" anchorOffsetY="0" height="88">
+				<e:Image id="kImgArrow" source="" y="0" x="0"/>
+				<e:Image id="kImgHand" source="" x="110.2" y="48.8" anchorOffsetX="64" anchorOffsetY="66" scaleX="0.7" scaleY="0.7"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="kGrpAction" scaleX="1" scaleY="1" left="0" right="0" top="0" bottom="0" touchEnabled="false" locked="true"/>
+		<e:Group id="kGrpGuide" left="0" right="0" top="0" bottom="0" touchEnabled="false" locked="true">
+		</e:Group>
+	</e:Group>
+</e:Skin>

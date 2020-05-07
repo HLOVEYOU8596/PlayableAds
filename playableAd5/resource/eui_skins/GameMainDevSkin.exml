@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameMainDevSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Rect left="0" right="0" top="0" bottom="0" visible="false"/>
+	<e:Group id="kGrpMain" horizontalCenter="0" verticalCenter="0" width="1280" height="720">
+		<e:Image id="kImgBg" source="" horizontalCenter="0" verticalCenter="0"/>
+		<e:Group id="kGrpBuild1" x="256" y="6" anchorOffsetX="0" width="512" anchorOffsetY="0" height="420" locked="true">
+			<e:Image id="kImgShape1" source="" x="17.82" y="212.09" locked="true" visible="false"/>
+			<e:Image id="kImgBuild1" source="" x="8" y="12" alpha="0"/>
+		</e:Group>
+		<e:Group id="kGrpBuild2" x="532" y="382" width="488" height="272" locked="true">
+			<e:Image id="kImgShape2" source="" x="-80" y="-20" visible="false"/>
+			<e:Image id="kImgBuild2" source="" x="0" y="0" alpha="0"/>
+		</e:Group>
+		<e:Group id="kGrpBuild3" x="674" y="126" locked="true">
+			<e:Image id="kImgShape3" source="" x="0" y="48" visible="false"/>
+			<e:Image id="kImgBuild3" source="" x="4" y="0" alpha="0"/>
+		</e:Group>
+		<e:Image id="kImgDeocrate" source="" x="-0.5" y="224" alpha="0"/>
+		<e:Group id="kGrpMenu" x="0" y="0">
+			<e:Image id="kImgMenuBg" source="" y="0" x="0"/>
+			<e:Image id="kImgGift" source="" x="114.35" y="681.09" anchorOffsetX="82" anchorOffsetY="120"/>
+			<ns1:Build id="kBuild1" width="200" height="140" y="176" anchorOffsetX="102" anchorOffsetY="70" horizontalCenter="-18"/>
+			<ns1:Build id="kBuild2" width="200" height="140" y="340" anchorOffsetX="100" anchorOffsetY="72" horizontalCenter="-18"/>
+			<ns1:Build id="kBuild3" width="200" height="140" y="504" anchorOffsetX="102" anchorOffsetY="70" horizontalCenter="-18"/>
+		</e:Group>
+		<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0" touchThrough="true" touchEnabled="false"/>
+		<e:Group id="kGrpGuide" left="0" right="0" top="0" bottom="0" touchThrough="true">
+		</e:Group>
+		<e:Image id="kImgPlayfree" source="" x="1133" y="649.59" anchorOffsetX="146" anchorOffsetY="52"/>
+	</e:Group>
+</e:Skin>

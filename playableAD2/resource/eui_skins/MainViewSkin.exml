@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainViewSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0xe291e1" locked="true"/>
+	<e:Group id="kGrpMain" height="720" width="1280" verticalCenter="0" horizontalCenter="0">
+		<e:Image id="kImgBg" scaleX="0.3" scaleY="0.3" left="0" right="0" top="0" bottom="0" source="main_bg_png" locked="true"/>
+		<e:Image id="kImgMain" source="main_a_png" x="689.5" y="313.5" anchorOffsetX="298" anchorOffsetY="274" locked="true"/>
+		<e:Image id="kImgDecorate1" source="main_decorate1_png" x="662" y="232" anchorOffsetX="384" anchorOffsetY="210" visible="false" locked="true"/>
+		<e:Image id="kImgDecorate2" x="404" y="272" source="" locked="true" visible="false"/>
+		<e:Image id="kImgDecorate3" source="main_decorate3_png" x="940" y="448" anchorOffsetX="124" anchorOffsetY="100" locked="true" visible="false"/>
+		<e:Group id="kGrpBtn" width="476" height="168" anchorOffsetY="0" anchorOffsetX="0" y="524" horizontalCenter="0" locked="true" visible="false">
+		<e:Group id="kGrpSnow" left="0" right="0" top="0" bottom="0" locked="true"/>
+			<e:Group x="0" y="18" anchorOffsetX="0" width="133" height="133">
+			<e:Image source="main_button_bg_png" horizontalCenter="0" verticalCenter="0" name="main_button_bg"/>
+			<e:Image id="kBtn1" source="main_btn1_png" horizontalCenter="0" verticalCenter="0"/>
+			</e:Group>
+			<e:Group x="169" y="18" width="133" height="133">
+			<e:Image source="main_button_bg_png" horizontalCenter="0" verticalCenter="0" name="main_button_bg"/>
+			<e:Image id="kBtn2" source="main_btn2_png" horizontalCenter="0" verticalCenter="0" width="120" height="120"/>
+			</e:Group>
+			<e:Group x="338" y="18" width="133" height="133">
+			<e:Image source="main_button_bg_png" horizontalCenter="0" verticalCenter="0" name="main_button_bg"/>
+			<e:Image id="kBtn3" source="main_btn3_png" horizontalCenter="0" verticalCenter="0" width="120" height="120"/>
+			</e:Group>
+			<e:layout>
+			<e:HorizontalLayout horizontalAlign="contentJustify" verticalAlign="middle" gap="36"/>
+			</e:layout>
+		</e:Group>
+		<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0" touchEnabled="false" locked="true"/>
+		<e:Group id="kGrpGuide" left="0" right="0" top="0" bottom="0" touchThrough="true" locked="true">
+		</e:Group>
+		<e:Group id="kGrpTips" width="758" height="89" y="100" anchorOffsetY="42" anchorOffsetX="380" horizontalCenter="0">
+			<e:Image id="kImgTipsBg" source="main_tips_bg_png" horizontalCenter="0" verticalCenter="0" alpha="0.7"/>
+			<e:Image id="kImgTips" source="main_tips1_png" horizontalCenter="0" verticalCenter="0"/>
+		</e:Group>
+		<e:Rect width="50" height="50" x="216" y="323" ellipseHeight="20" ellipseWidth="20"/>
+	</e:Group>
+</e:Skin>

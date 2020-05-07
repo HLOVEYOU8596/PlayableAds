@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DrumstickDevSkin" width="200" height="150" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  states="state1,state2" >
+	<e:Group left="0" right="0" top="0" bottom="0" anchorOffsetY="0">
+		<e:Image id="kImgDisk" source="" y="27" horizontalCenter="0.5"/>
+		<e:Image id="kImgDrumstick1" anchorOffsetX="68" anchorOffsetY="55" source="" horizontalCenter="0" bottom="23" visible.state2="false"/>
+		<e:Image id="kImgDrumstick3" y="71.5" anchorOffsetX="69" anchorOffsetY="59" source="" visible.state1="false" horizontalCenter="0.5" visible.state2="false"/>
+		<e:Image id="kImgDrumstick4" y="92" anchorOffsetX="90" anchorOffsetY="33" source="" visible.state1="false" horizontalCenter="0" visible.state2="false"/>
+		<e:Image id="kImgDrumstick5" y="22.5" anchorOffsetX="27" anchorOffsetY="21" source="" visible.state1="false" horizontalCenter="0" visible.state2="false"/>
+		<e:Image id="kImgLocked" source="" x="102" y="82" anchorOffsetX="67" anchorOffsetY="48" visible.state1="false" visible.state2="false"/>
+	</e:Group>
+</e:Skin>

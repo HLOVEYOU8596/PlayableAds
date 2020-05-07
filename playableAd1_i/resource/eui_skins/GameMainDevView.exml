@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameMainDevSkin" width="1136" height="640" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*">
+	<w:Declarations>
+	</w:Declarations>
+	<e:Group id="kGrpMain" verticalCenter="0" horizontalCenter="0" width="1136" height="640" scrollEnabled="true">
+		<e:Image id="kImgBg" horizontalCenter="0" verticalCenter="0" source=""/>
+		<e:Group id="kGrpPeople2" x="-285" y="-8" anchorOffsetY="0" height="254" scrollEnabled="true" width="350" locked="true">
+			<e:Group id="kGrpMenu2" y="150" x="230" anchorOffsetX="2" anchorOffsetY="104" scaleX="0" scaleY="0">
+				<e:Image id="kImgMenu2" source="" y="0"/>
+				<e:Image id="kImgOrder2" source="" horizontalCenter="0" verticalCenter="-25" scaleX="0.5" scaleY="0.5"/>
+				<e:Image id="kImgCoin2" source="" horizontalCenter="0" verticalCenter="51" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Group id="kGrpPeople1" x="1137" y="-8" anchorOffsetY="0" height="254" scrollEnabled="true" anchorOffsetX="0" width="300">
+			<e:Group id="kGrpMenu1" y="150" x="106" anchorOffsetX="106" anchorOffsetY="102" scaleX="0" scaleY="0">
+			<e:Image id="kImgMenu1" source="" x="135" y="0" scaleX="-1"/>
+			<e:Image id="kImgOrder1" source="" verticalCenter="-30" horizontalCenter="0"/>
+				<e:Image id="kImgCoin1" source="" horizontalCenter="0" verticalCenter="51" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Image id="kImgCoke" source="" x="900" y="400" anchorOffsetX="30" anchorOffsetY="48" scaleX="0" scaleY="0"/>
+		<e:Group id="kGrpFood" x="298.45" y="553.51" anchorOffsetX="84.45" anchorOffsetY="63.51" locked="true" visible="false">
+			<e:Image id="kImgDrumstick" source="" x="48" y="-17"/>
+			<e:Image id="kImgShu" source="" anchorOffsetX="50" anchorOffsetY="43" x="59" y="47.33" scaleX="0" scaleY="0"/>
+			<e:Image id="kImgFan" source="" anchorOffsetX="37" anchorOffsetY="37" x="151" y="77.33" scaleX="0" scaleY="0"/>
+		</e:Group>
+		<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0" locked="true">
+		</e:Group>
+	<e:Group id="kGrpEnd" left="0" right="0" top="0" bottom="0" visible="false" locked="true">
+			<e:Image id="kImgTopic" source="main_reward_bg_png" verticalCenter="-131" horizontalCenter="0"/>
+			<e:Label id="kLbTopic" text="Delicious" anchorOffsetX="0" width="367.94" anchorOffsetY="0" height="96.66" verticalAlign="middle" textAlign="center" size="65" bold="true" textColor="0x9b6937" horizontalCenter="0" verticalCenter="-142"/>
+			<e:Group id="kGrpClose" horizontalCenter="0" verticalCenter="0" width="1136" height="640" scrollEnabled="true" visible="false">
+				<e:Image id="kImgEndBg" source="" x="0" y="0"/>
+				<e:Image id="kImgFood4" source="" x="1193.05" y="319.85" anchorOffsetX="54.55" anchorOffsetY="84.85"/>
+				<e:Image id="kImgFood2" source="" x="-57.28" y="316" anchorOffsetX="60" anchorOffsetY="106"/>
+				<e:Image id="kImgFood1" source="" x="1331.61" y="426.42" anchorOffsetX="195.76" anchorOffsetY="166.42"/>
+				<e:Image id="kImgFood3" source="" x="-186.61" y="418" anchorOffsetX="205.94" anchorOffsetY="168.24"/>
+				<e:Image id="kImgTips" source="" y="736" horizontalCenter="0"/>
+				<e:Image id="kImgContent" source="" y="200" anchorOffsetX="359.09" anchorOffsetY="130" horizontalCenter="0"/>
+				<e:Image id="kImgHand" source="" x="200" y="380" visible="false"/>
+			</e:Group>
+		</e:Group>
+		<e:Image id="kImgXu" x="248" y="430" source="" touchEnabled="false" visible="false"/>
+		<e:Label id="kLbTips" text="Tap to start cooking" x="132.33" y="273.41" bold="true" size="73" wordWrap="true" anchorOffsetX="0" width="430.88" textAlign="center" stroke="3" visible="false"/>
+		<e:Group id="kGrpGuide" left="0" right="0" top="0" bottom="0" locked="true"/>
+	</e:Group>
+</e:Skin>

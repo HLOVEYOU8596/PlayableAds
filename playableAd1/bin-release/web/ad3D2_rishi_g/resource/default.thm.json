@@ -1,0 +1,9 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/MainView.exml",
+		"resource/eui_skins/ProgressBarSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}

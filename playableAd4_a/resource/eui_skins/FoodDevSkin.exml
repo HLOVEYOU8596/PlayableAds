@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FoodDevSkin" width="169" height="156" currentState="state1" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" states="state1" >
+    <e:Group id="kGrpAll" left="0" right="0" top="0" bottom="0" anchorOffsetX="85" anchorOffsetY="77">
+    <e:Image id="kImgDrumstick" source="" x="99" y="65" anchorOffsetX="68" anchorOffsetY="63"  source.state1=""/>
+    <e:Image id="kImgFrties" source="" y="118.5" left="0" anchorOffsetX="50" anchorOffsetY="35"  visible.state1="false"/>
+    <e:Image id="kImgTomoto" source="" x="124.5" y="124.5" anchorOffsetX="30" anchorOffsetY="29"  visible.state1="false"/>
+    </e:Group>
+</e:Skin>

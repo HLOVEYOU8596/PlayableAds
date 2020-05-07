@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainViewSkin" width="480" height="320" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x000000"/>
+	<e:Group id="kGrpMain" height="320" width="480" verticalCenter="0" horizontalCenter="0" scrollEnabled="true">
+		<e:Group id="kGrpBg" left="0" right="0" top="0" bottom="0">
+			<e:Image id="kImgBg1" source="main_bg1_png" x="0" y="0"/>
+			<e:Group id="kGrpPeople1" x="-200" y="18.61" locked="true">
+				<e:Image x="0" y="0" source="main_people2_png" id="kImgPeople1"/>
+				<e:Group id="kGrpMenu1" x="84.57" y="43" anchorOffsetX="-0.67" anchorOffsetY="34" scaleX="0" scaleY="0">
+					<e:Image id="kImgMenu1" source="main_menu_png" x="0" y="0"/>
+					<e:Image id="kImgNum1" source="main_x3_png" left="34" top="38"/>
+				</e:Group>
+			</e:Group>
+			<e:Group id="kGrpPeople2" x="-200" y="17" locked="true">
+				<e:Image source="main_people1_png" x="0" y="0" id="kImgPeople2"/>
+				<e:Group id="kGrpMenu2" x="94.68" y="43" anchorOffsetX="0.67" anchorOffsetY="34" visible="false">
+					<e:Image id="kImgMenu2" source="main_menu_png" x="0" y="0"/>
+					<e:Image id="kImgNum2" source="main_x6_png" left="36" top="36" width="31"/>
+				</e:Group>
+			</e:Group>
+			<e:Image id="kImgbg2" source="main_bg2_png" x="0" bottom="0"/>
+		</e:Group>
+		<e:Group id="kGrpAction" left="0" right="0" top="0" bottom="0" locked="true"/>
+		<e:Group id="kGrpHam" left="0" right="0" top="0" bottom="0" locked="true">
+		</e:Group>
+		<e:Group id="kGrpSnow" left="0" right="0" top="0" bottom="0" locked="true"/>
+		<e:Image id="kImgSwipe" source="main_swipe_png" y="199.34" anchorOffsetX="112.67" anchorOffsetY="24.67" horizontalCenter="-40.5" visible="false"/>
+		<e:Group id="kGrpGuide" left="0" right="0" top="0" bottom="0" locked="true"/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,10 @@
+{
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/DrumstickDevSkin.exml",
+		"resource/eui_skins/DrumstickSkin.exml",
+		"resource/eui_skins/GameMainDevSkin.exml",
+		"resource/eui_skins/GameMainSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}

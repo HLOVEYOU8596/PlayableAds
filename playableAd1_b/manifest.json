@@ -1,0 +1,29 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/particle/particle.js"
+	],
+	"game": [
+		"bin-debug/MCManger.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/Guide.js",
+		"bin-debug/GuideStep.js",
+		"bin-debug/Img.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/MainView.js",
+		"bin-debug/CircleTimer.js",
+		"bin-debug/Particle.js",
+		"bin-debug/Platform.js",
+		"bin-debug/PointSheet.js",
+		"bin-debug/ProgressBar.js",
+		"bin-debug/Sheets.js",
+		"bin-debug/SoundConst.js",
+		"bin-debug/ThemeAdapter.js"
+	]
+}

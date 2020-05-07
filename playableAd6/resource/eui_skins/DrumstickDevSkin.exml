@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DrumstickDevSkin" width="272" height="190" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  states="state1" >
+	<e:Group left="0" right="1" top="0" bottom="0" anchorOffsetY="0" anchorOffsetX="0">
+		<e:Image id="kImgDrumstick1" x="159.5" anchorOffsetX="92" anchorOffsetY="88" bottom="16" source=""/>
+		<e:Image id="kImgDrumstick2" y="144" anchorOffsetX="69" anchorOffsetY="54" horizontalCenter="-68.5" visible.state1="false" source=""/>
+		<e:Image id="kImgDrumstick3" x="193" y="152" anchorOffsetX="28" anchorOffsetY="30" visible.state1="false" source=""/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,13 @@
+{
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/BuildSkin.exml",
+		"resource/eui_skins/GameEndDevSkin.exml",
+		"resource/eui_skins/GameEndSkin.exml",
+		"resource/eui_skins/GameMainDevSkin.exml",
+		"resource/eui_skins/GameMainSkin.exml",
+		"resource/eui_skins/GameStartDevSkin.exml",
+		"resource/eui_skins/GameStartSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}
